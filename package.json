@@ -1,0 +1,46 @@
+{
+  "name": "qminer-data-loader",
+  "version": "1.3.0",
+  "description": "Example datasets importer for qminer",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "sentiment.ldjson",
+    "visits_small.ldjson",
+    "movies.ldjson",
+    "forex.ldjson"
+  ],
+  "keywords": [
+    "qminer"
+  ],
+  "author": {
+    "name": "Jan Rupnik"
+  },
+  "license": "ISC",
+  "_id": "qminer-data-loader@1.3.0",
+  "scripts": {},
+  "_shasum": "99c7141c8798baad048457fa62e236e30bd5fbcb",
+  "_from": "qminer-data-loader@*",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "rupnikj",
+    "email": "jan.rupnik@ijs.si"
+  },
+  "maintainers": [
+    {
+      "name": "blazf",
+      "email": "blaz@blazfortuna.com"
+    },
+    {
+      "name": "rupnikj",
+      "email": "jan.rupnik@ijs.si"
+    }
+  ],
+  "dist": {
+    "shasum": "99c7141c8798baad048457fa62e236e30bd5fbcb",
+    "tarball": "http://registry.npmjs.org/qminer-data-loader/-/qminer-data-loader-1.3.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/qminer-data-loader/-/qminer-data-loader-1.3.0.tgz"
+}
