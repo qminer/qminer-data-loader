@@ -19,6 +19,11 @@ exports.loadForexDataset = function (store, fileName) {
     store.loadJson(fileName);
 }
 
+exports.loadIrisDataset = function (store, fileName) {
+    fileName = fileName == undefined ? __dirname + '/iris.ldjson' : fileName;
+    store.loadJson(fileName);
+}
+
 exports.getSentimentDatasetFile = function (fileName) {
     return __dirname + '/' + fileName;
 }
