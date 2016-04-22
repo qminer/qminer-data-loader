@@ -1,0 +1,1682 @@
+{"ID":0,"Title":"Toy Story (1995)","Genres":["Adventure","Animation","Children's"]}
+{"ID":1,"Title":"GoldenEye (1995)","Genres":["Action","Sci-Fi"]}
+{"ID":2,"Title":"Four Rooms (1995)","Genres":["Sci-Fi"]}
+{"ID":3,"Title":"Get Shorty (1995)","Genres":["Children's","Documentary"]}
+{"ID":4,"Title":"Copycat (1995)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":5,"Title":"Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)","Genres":["Documentary"]}
+{"ID":6,"Title":"Twelve Monkeys (1995)","Genres":["Documentary","Romance"]}
+{"ID":7,"Title":"Babe (1995)","Genres":["Animation","Children's","Documentary"]}
+{"ID":8,"Title":"Dead Man Walking (1995)","Genres":["Documentary"]}
+{"ID":9,"Title":"Richard III (1995)","Genres":["Documentary","Thriller"]}
+{"ID":10,"Title":"Seven (Se7en) (1995)","Genres":["Comedy","Sci-Fi"]}
+{"ID":11,"Title":"Usual Suspects, The (1995)","Genres":["Comedy","Sci-Fi"]}
+{"ID":12,"Title":"Mighty Aphrodite (1995)","Genres":["Children's"]}
+{"ID":13,"Title":"Postino, Il (1994)","Genres":["Documentary","Mystery"]}
+{"ID":14,"Title":"Mr. Holland's Opus (1995)","Genres":["Documentary"]}
+{"ID":15,"Title":"French Twist (Gazon maudit) (1995)","Genres":["Children's","Mystery"]}
+{"ID":16,"Title":"From Dusk Till Dawn (1996)","Genres":["Children's","Comedy","Film-Noir","Sci-Fi"]}
+{"ID":17,"Title":"White Balloon, The (1995)","Genres":["Documentary"]}
+{"ID":18,"Title":"Antonia's Line (1995)","Genres":["Documentary"]}
+{"ID":19,"Title":"Angels and Insects (1995)","Genres":["Documentary","Mystery"]}
+{"ID":20,"Title":"Muppet Treasure Island (1996)","Genres":["Action","Children's","Horror","Sci-Fi"]}
+{"ID":21,"Title":"Braveheart (1995)","Genres":["Documentary","Thriller"]}
+{"ID":22,"Title":"Taxi Driver (1976)","Genres":["Documentary","Sci-Fi"]}
+{"ID":23,"Title":"Rumble in the Bronx (1995)","Genres":["Action","Comedy"]}
+{"ID":24,"Title":"Birdcage, The (1996)","Genres":["Children's"]}
+{"ID":25,"Title":"Brothers McMullen, The (1995)","Genres":["Children's"]}
+{"ID":26,"Title":"Bad Boys (1995)","Genres":[]}
+{"ID":27,"Title":"Apollo 13 (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":28,"Title":"Batman Forever (1995)","Genres":["Action","Children's","Comedy"]}
+{"ID":29,"Title":"Belle de jour (1967)","Genres":["Documentary"]}
+{"ID":30,"Title":"Crimson Tide (1995)","Genres":["Documentary","Sci-Fi","Thriller"]}
+{"ID":31,"Title":"Crumb (1994)","Genres":["Crime"]}
+{"ID":32,"Title":"Desperado (1995)","Genres":["Mystery","Sci-Fi"]}
+{"ID":33,"Title":"Doom Generation, The (1995)","Genres":["Children's","Documentary"]}
+{"ID":34,"Title":"Free Willy 2: The Adventure Home (1995)","Genres":["Action","Animation","Documentary"]}
+{"ID":35,"Title":"Mad Love (1995)","Genres":["Documentary","Mystery"]}
+{"ID":36,"Title":"Nadja (1994)","Genres":["Documentary"]}
+{"ID":37,"Title":"Net, The (1995)","Genres":["Romance","Sci-Fi"]}
+{"ID":38,"Title":"Strange Days (1995)","Genres":["Comedy","Romance"]}
+{"ID":39,"Title":"To Wong Foo, Thanks for Everything! Julie Newmar (1995)","Genres":["Children's"]}
+{"ID":40,"Title":"Billy Madison (1995)","Genres":["Children's"]}
+{"ID":41,"Title":"Clerks (1994)","Genres":["Children's"]}
+{"ID":42,"Title":"Disclosure (1994)","Genres":["Documentary","Sci-Fi"]}
+{"ID":43,"Title":"Dolores Claiborne (1994)","Genres":["Documentary","Sci-Fi"]}
+{"ID":44,"Title":"Eat Drink Man Woman (1994)","Genres":["Children's","Documentary"]}
+{"ID":45,"Title":"Exotica (1994)","Genres":["Documentary"]}
+{"ID":46,"Title":"Ed Wood (1994)","Genres":["Children's","Documentary"]}
+{"ID":47,"Title":"Hoop Dreams (1994)","Genres":["Crime"]}
+{"ID":48,"Title":"I.Q. (1994)","Genres":["Children's","Mystery"]}
+{"ID":49,"Title":"Star Wars (1977)","Genres":["Action","Mystery","Romance","Thriller"]}
+{"ID":50,"Title":"Legends of the Fall (1994)","Genres":["Documentary","Mystery","Thriller","War"]}
+{"ID":51,"Title":"Madness of King George, The (1994)","Genres":["Documentary"]}
+{"ID":52,"Title":"Natural Born Killers (1994)","Genres":["Sci-Fi"]}
+{"ID":53,"Title":"Outbreak (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":54,"Title":"Professional, The (1994)","Genres":["Comedy","Documentary","Mystery","Sci-Fi"]}
+{"ID":55,"Title":"Pulp Fiction (1994)","Genres":["Comedy","Documentary"]}
+{"ID":56,"Title":"Priest (1994)","Genres":["Documentary"]}
+{"ID":57,"Title":"Quiz Show (1994)","Genres":["Documentary"]}
+{"ID":58,"Title":"Three Colors: Red (1994)","Genres":["Documentary"]}
+{"ID":59,"Title":"Three Colors: Blue (1993)","Genres":["Documentary"]}
+{"ID":60,"Title":"Three Colors: White (1994)","Genres":["Documentary"]}
+{"ID":61,"Title":"Stargate (1994)","Genres":["Action","Romance"]}
+{"ID":62,"Title":"Santa Clause, The (1994)","Genres":["Animation","Children's"]}
+{"ID":63,"Title":"Shawshank Redemption, The (1994)","Genres":["Documentary"]}
+{"ID":64,"Title":"What's Eating Gilbert Grape (1993)","Genres":["Children's","Documentary"]}
+{"ID":65,"Title":"While You Were Sleeping (1995)","Genres":["Children's","Mystery"]}
+{"ID":66,"Title":"Ace Ventura: Pet Detective (1994)","Genres":["Children's"]}
+{"ID":67,"Title":"Crow, The (1994)","Genres":["Mystery","Sci-Fi"]}
+{"ID":68,"Title":"Forrest Gump (1994)","Genres":["Children's","Mystery","Thriller"]}
+{"ID":69,"Title":"Four Weddings and a Funeral (1994)","Genres":["Children's","Mystery"]}
+{"ID":70,"Title":"Lion King, The (1994)","Genres":["Adventure","Animation","Horror"]}
+{"ID":71,"Title":"Mask, The (1994)","Genres":["Children's","Comedy","Drama"]}
+{"ID":72,"Title":"Maverick (1994)","Genres":["Children's","War"]}
+{"ID":73,"Title":"Faster Pussycat! Kill! Kill! (1965)","Genres":["Children's","Documentary"]}
+{"ID":74,"Title":"Brother Minister: The Assassination of Malcolm X (1994)","Genres":["Crime"]}
+{"ID":75,"Title":"Carlito's Way (1993)","Genres":["Comedy","Documentary"]}
+{"ID":76,"Title":"Firm, The (1993)","Genres":["Documentary","Sci-Fi"]}
+{"ID":77,"Title":"Free Willy (1993)","Genres":["Action","Animation","Documentary"]}
+{"ID":78,"Title":"Fugitive, The (1993)","Genres":["Sci-Fi"]}
+{"ID":79,"Title":"Hot Shots! Part Deux (1993)","Genres":["Children's","Thriller"]}
+{"ID":80,"Title":"Hudsucker Proxy, The (1994)","Genres":["Children's","Mystery"]}
+{"ID":81,"Title":"Jurassic Park (1993)","Genres":["Action","Romance"]}
+{"ID":82,"Title":"Much Ado About Nothing (1993)","Genres":["Children's","Mystery"]}
+{"ID":83,"Title":"Robert A. Heinlein's The Puppet Masters (1994)","Genres":["Film-Noir","Romance"]}
+{"ID":84,"Title":"Ref, The (1994)","Genres":["Children's"]}
+{"ID":85,"Title":"Remains of the Day, The (1993)","Genres":["Documentary"]}
+{"ID":86,"Title":"Searching for Bobby Fischer (1993)","Genres":["Documentary"]}
+{"ID":87,"Title":"Sleepless in Seattle (1993)","Genres":["Children's","Mystery"]}
+{"ID":88,"Title":"Blade Runner (1982)","Genres":["Fantasy","Romance"]}
+{"ID":89,"Title":"So I Married an Axe Murderer (1993)","Genres":["Children's","Mystery","Sci-Fi"]}
+{"ID":90,"Title":"Nightmare Before Christmas, The (1993)","Genres":["Animation","Children's","Horror"]}
+{"ID":91,"Title":"True Romance (1993)","Genres":["Comedy","Mystery"]}
+{"ID":92,"Title":"Welcome to the Dollhouse (1995)","Genres":["Children's","Documentary"]}
+{"ID":93,"Title":"Home Alone (1990)","Genres":["Animation","Children's"]}
+{"ID":94,"Title":"Aladdin (1992)","Genres":["Adventure","Animation","Children's","Horror"]}
+{"ID":95,"Title":"Terminator 2: Judgment Day (1991)","Genres":["Romance","Sci-Fi"]}
+{"ID":96,"Title":"Dances with Wolves (1990)","Genres":["Action","Documentary","War"]}
+{"ID":97,"Title":"Silence of the Lambs, The (1991)","Genres":["Documentary","Sci-Fi"]}
+{"ID":98,"Title":"Snow White and the Seven Dwarfs (1937)","Genres":["Adventure","Animation","Horror"]}
+{"ID":99,"Title":"Fargo (1996)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":100,"Title":"Heavy Metal (1981)","Genres":["Action","Adventure","Film-Noir","Romance"]}
+{"ID":101,"Title":"Aristocats, The (1970)","Genres":["Adventure","Animation"]}
+{"ID":102,"Title":"All Dogs Go to Heaven 2 (1996)","Genres":["Adventure","Animation","Horror"]}
+{"ID":103,"Title":"Theodore Rex (1995)","Genres":["Children's"]}
+{"ID":104,"Title":"Sgt. Bilko (1996)","Genres":["Children's"]}
+{"ID":105,"Title":"Diabolique (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":106,"Title":"Moll Flanders (1996)","Genres":["Documentary"]}
+{"ID":107,"Title":"Kids in the Hall: Brain Candy (1996)","Genres":["Children's"]}
+{"ID":108,"Title":"Mystery Science Theater 3000: The Movie (1996)","Genres":["Children's","Romance"]}
+{"ID":109,"Title":"Operation Dumbo Drop (1995)","Genres":["Action","Children's","Thriller"]}
+{"ID":110,"Title":"Truth About Cats & Dogs, The (1996)","Genres":["Children's","Mystery"]}
+{"ID":111,"Title":"Flipper (1996)","Genres":["Action","Animation"]}
+{"ID":112,"Title":"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)","Genres":["Documentary"]}
+{"ID":113,"Title":"Wallace & Gromit: The Best of Aardman Animation (1996)","Genres":["Adventure"]}
+{"ID":114,"Title":"Haunted World of Edward D. Wood Jr., The (1995)","Genres":["Crime"]}
+{"ID":115,"Title":"Cold Comfort Farm (1995)","Genres":["Children's"]}
+{"ID":116,"Title":"Rock, The (1996)","Genres":["Action","Sci-Fi"]}
+{"ID":117,"Title":"Twister (1996)","Genres":["Action","Sci-Fi"]}
+{"ID":118,"Title":"Maya Lin: A Strong Clear Vision (1994)","Genres":["Crime"]}
+{"ID":119,"Title":"Striptease (1996)","Genres":["Children's","Comedy"]}
+{"ID":120,"Title":"Independence Day (ID4) (1996)","Genres":["Romance","Thriller"]}
+{"ID":121,"Title":"Cable Guy, The (1996)","Genres":["Children's"]}
+{"ID":122,"Title":"Frighteners, The (1996)","Genres":["Children's","Film-Noir"]}
+{"ID":123,"Title":"Lone Star (1996)","Genres":["Documentary","Musical"]}
+{"ID":124,"Title":"Phenomenon (1996)","Genres":["Documentary","Mystery"]}
+{"ID":125,"Title":"Spitfire Grill, The (1996)","Genres":["Documentary"]}
+{"ID":126,"Title":"Godfather, The (1972)","Genres":["Comedy","Documentary"]}
+{"ID":127,"Title":"Supercop (1992)","Genres":["Sci-Fi"]}
+{"ID":128,"Title":"Bound (1996)","Genres":["Comedy","Documentary","Mystery","Sci-Fi"]}
+{"ID":129,"Title":"Kansas City (1996)","Genres":["Comedy"]}
+{"ID":130,"Title":"Breakfast at Tiffany's (1961)","Genres":["Documentary","Mystery"]}
+{"ID":131,"Title":"Wizard of Oz, The (1939)","Genres":["Action","Animation","Documentary","Horror"]}
+{"ID":132,"Title":"Gone with the Wind (1939)","Genres":["Documentary","Mystery","Thriller"]}
+{"ID":133,"Title":"Citizen Kane (1941)","Genres":["Documentary"]}
+{"ID":134,"Title":"2001: A Space Odyssey (1968)","Genres":["Documentary","Musical","Romance","Sci-Fi"]}
+{"ID":135,"Title":"Mr. Smith Goes to Washington (1939)","Genres":["Documentary"]}
+{"ID":136,"Title":"Big Night (1996)","Genres":["Documentary"]}
+{"ID":137,"Title":"D3: The Mighty Ducks (1996)","Genres":["Animation","Children's"]}
+{"ID":138,"Title":"Love Bug, The (1969)","Genres":["Animation","Children's"]}
+{"ID":139,"Title":"Homeward Bound: The Incredible Journey (1993)","Genres":["Action","Animation"]}
+{"ID":140,"Title":"20,000 Leagues Under the Sea (1954)","Genres":["Action","Animation","Drama","Romance"]}
+{"ID":141,"Title":"Bedknobs and Broomsticks (1971)","Genres":["Action","Animation","Horror"]}
+{"ID":142,"Title":"Sound of Music, The (1965)","Genres":["Horror"]}
+{"ID":143,"Title":"Die Hard (1988)","Genres":["Sci-Fi"]}
+{"ID":144,"Title":"Lawnmower Man, The (1992)","Genres":["Romance","Sci-Fi"]}
+{"ID":145,"Title":"Unhook the Stars (1996)","Genres":["Documentary"]}
+{"ID":146,"Title":"Long Kiss Goodnight, The (1996)","Genres":["Sci-Fi"]}
+{"ID":147,"Title":"Ghost and the Darkness, The (1996)","Genres":["Action"]}
+{"ID":148,"Title":"Jude (1996)","Genres":["Documentary"]}
+{"ID":149,"Title":"Swingers (1996)","Genres":["Children's","Documentary"]}
+{"ID":150,"Title":"Willy Wonka and the Chocolate Factory (1971)","Genres":["Action","Animation","Children's"]}
+{"ID":151,"Title":"Sleeper (1973)","Genres":["Children's","Romance"]}
+{"ID":152,"Title":"Fish Called Wanda, A (1988)","Genres":["Children's"]}
+{"ID":153,"Title":"Monty Python's Life of Brian (1979)","Genres":["Children's"]}
+{"ID":154,"Title":"Dirty Dancing (1987)","Genres":["Horror","Mystery"]}
+{"ID":155,"Title":"Reservoir Dogs (1992)","Genres":["Comedy","Sci-Fi"]}
+{"ID":156,"Title":"Platoon (1986)","Genres":["Documentary","Thriller"]}
+{"ID":157,"Title":"Weekend at Bernie's (1989)","Genres":["Children's"]}
+{"ID":158,"Title":"Basic Instinct (1992)","Genres":["Musical","Sci-Fi"]}
+{"ID":159,"Title":"Glengarry Glen Ross (1992)","Genres":["Documentary"]}
+{"ID":160,"Title":"Top Gun (1986)","Genres":["Mystery"]}
+{"ID":161,"Title":"On Golden Pond (1981)","Genres":["Documentary"]}
+{"ID":162,"Title":"Return of the Pink Panther, The (1974)","Genres":["Children's"]}
+{"ID":163,"Title":"Abyss, The (1989)","Genres":["Action","Romance","Sci-Fi"]}
+{"ID":164,"Title":"Jean de Florette (1986)","Genres":["Documentary"]}
+{"ID":165,"Title":"Manon of the Spring (Manon des sources) (1986)","Genres":["Documentary"]}
+{"ID":166,"Title":"Private Benjamin (1980)","Genres":["Children's"]}
+{"ID":167,"Title":"Monty Python and the Holy Grail (1974)","Genres":["Children's"]}
+{"ID":168,"Title":"Wrong Trousers, The (1993)","Genres":["Adventure","Children's"]}
+{"ID":169,"Title":"Cinema Paradiso (1988)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":170,"Title":"Delicatessen (1991)","Genres":["Children's","Romance"]}
+{"ID":171,"Title":"Empire Strikes Back, The (1980)","Genres":["Action","Documentary","Mystery","Romance","Thriller"]}
+{"ID":172,"Title":"Princess Bride, The (1987)","Genres":["Action","Children's","Mystery"]}
+{"ID":173,"Title":"Raiders of the Lost Ark (1981)","Genres":["Action"]}
+{"ID":174,"Title":"Brazil (1985)","Genres":["Romance"]}
+{"ID":175,"Title":"Aliens (1986)","Genres":["Romance","Sci-Fi","Thriller"]}
+{"ID":176,"Title":"Good, The Bad and The Ugly, The (1966)","Genres":["War"]}
+{"ID":177,"Title":"12 Angry Men (1957)","Genres":["Documentary"]}
+{"ID":178,"Title":"Clockwork Orange, A (1971)","Genres":["Romance"]}
+{"ID":179,"Title":"Apocalypse Now (1979)","Genres":["Documentary","Thriller"]}
+{"ID":180,"Title":"Return of the Jedi (1983)","Genres":["Action","Mystery","Romance","Thriller"]}
+{"ID":181,"Title":"GoodFellas (1990)","Genres":["Comedy","Documentary"]}
+{"ID":182,"Title":"Alien (1979)","Genres":["Film-Noir","Romance","Sci-Fi"]}
+{"ID":183,"Title":"Army of Darkness (1993)","Genres":["Action","Children's","Film-Noir","Romance"]}
+{"ID":184,"Title":"Psycho (1960)","Genres":["Film-Noir","Mystery","Sci-Fi"]}
+{"ID":185,"Title":"Blues Brothers, The (1980)","Genres":["Children's","Horror"]}
+{"ID":186,"Title":"Godfather: Part II, The (1974)","Genres":["Comedy","Documentary"]}
+{"ID":187,"Title":"Full Metal Jacket (1987)","Genres":["Documentary","Thriller"]}
+{"ID":188,"Title":"Grand Day Out, A (1992)","Genres":["Adventure","Children's"]}
+{"ID":189,"Title":"Henry V (1989)","Genres":["Documentary","Thriller"]}
+{"ID":190,"Title":"Amadeus (1984)","Genres":["Documentary","Musical"]}
+{"ID":191,"Title":"Raging Bull (1980)","Genres":["Documentary"]}
+{"ID":192,"Title":"Right Stuff, The (1983)","Genres":["Documentary"]}
+{"ID":193,"Title":"Sting, The (1973)","Genres":["Children's","Comedy"]}
+{"ID":194,"Title":"Terminator, The (1984)","Genres":["Romance","Sci-Fi"]}
+{"ID":195,"Title":"Dead Poets Society (1989)","Genres":["Documentary"]}
+{"ID":196,"Title":"Graduate, The (1967)","Genres":["Documentary","Mystery"]}
+{"ID":197,"Title":"Nikita (La Femme Nikita) (1990)","Genres":["Sci-Fi"]}
+{"ID":198,"Title":"Bridge on the River Kwai, The (1957)","Genres":["Documentary","Thriller"]}
+{"ID":199,"Title":"Shining, The (1980)","Genres":["Film-Noir"]}
+{"ID":200,"Title":"Evil Dead II (1987)","Genres":["Action","Children's","Film-Noir"]}
+{"ID":201,"Title":"Groundhog Day (1993)","Genres":["Children's","Mystery"]}
+{"ID":202,"Title":"Unforgiven (1992)","Genres":["War"]}
+{"ID":203,"Title":"Back to the Future (1985)","Genres":["Children's","Romance"]}
+{"ID":204,"Title":"Patton (1970)","Genres":["Documentary","Thriller"]}
+{"ID":205,"Title":"Akira (1988)","Genres":["Action","Adventure","Romance","Sci-Fi"]}
+{"ID":206,"Title":"Cyrano de Bergerac (1990)","Genres":["Documentary","Mystery"]}
+{"ID":207,"Title":"Young Frankenstein (1974)","Genres":["Children's","Film-Noir"]}
+{"ID":208,"Title":"This Is Spinal Tap (1984)","Genres":["Children's","Documentary","Horror"]}
+{"ID":209,"Title":"Indiana Jones and the Last Crusade (1989)","Genres":["Action"]}
+{"ID":210,"Title":"M*A*S*H (1970)","Genres":["Children's","Thriller"]}
+{"ID":211,"Title":"Unbearable Lightness of Being, The (1988)","Genres":["Documentary"]}
+{"ID":212,"Title":"Room with a View, A (1986)","Genres":["Documentary","Mystery"]}
+{"ID":213,"Title":"Pink Floyd - The Wall (1982)","Genres":["Documentary","Horror","Thriller"]}
+{"ID":214,"Title":"Field of Dreams (1989)","Genres":["Documentary"]}
+{"ID":215,"Title":"When Harry Met Sally... (1989)","Genres":["Children's","Mystery"]}
+{"ID":216,"Title":"Bram Stoker's Dracula (1992)","Genres":["Film-Noir","Mystery"]}
+{"ID":217,"Title":"Cape Fear (1991)","Genres":["Sci-Fi"]}
+{"ID":218,"Title":"Nightmare on Elm Street, A (1984)","Genres":["Film-Noir"]}
+{"ID":219,"Title":"Mirror Has Two Faces, The (1996)","Genres":["Children's","Mystery"]}
+{"ID":220,"Title":"Breaking the Waves (1996)","Genres":["Documentary"]}
+{"ID":221,"Title":"Star Trek: First Contact (1996)","Genres":["Action","Romance"]}
+{"ID":222,"Title":"Sling Blade (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":223,"Title":"Ridicule (1996)","Genres":["Documentary"]}
+{"ID":224,"Title":"101 Dalmatians (1996)","Genres":["Animation","Children's"]}
+{"ID":225,"Title":"Die Hard 2 (1990)","Genres":["Sci-Fi"]}
+{"ID":226,"Title":"Star Trek VI: The Undiscovered Country (1991)","Genres":["Action","Romance"]}
+{"ID":227,"Title":"Star Trek: The Wrath of Khan (1982)","Genres":["Action","Romance"]}
+{"ID":228,"Title":"Star Trek III: The Search for Spock (1984)","Genres":["Action","Romance"]}
+{"ID":229,"Title":"Star Trek IV: The Voyage Home (1986)","Genres":["Action","Romance"]}
+{"ID":230,"Title":"Batman Returns (1992)","Genres":["Action","Children's","Comedy"]}
+{"ID":231,"Title":"Young Guns (1988)","Genres":["Children's","War"]}
+{"ID":232,"Title":"Under Siege (1992)","Genres":[]}
+{"ID":233,"Title":"Jaws (1975)","Genres":["Film-Noir"]}
+{"ID":234,"Title":"Mars Attacks! (1996)","Genres":["Children's","Romance","Thriller"]}
+{"ID":235,"Title":"Citizen Ruth (1996)","Genres":["Children's","Documentary"]}
+{"ID":236,"Title":"Jerry Maguire (1996)","Genres":["Documentary","Mystery"]}
+{"ID":237,"Title":"Raising Arizona (1987)","Genres":["Children's"]}
+{"ID":238,"Title":"Sneakers (1992)","Genres":["Comedy","Documentary","Romance"]}
+{"ID":239,"Title":"Beavis and Butt-head Do America (1996)","Genres":["Adventure","Children's"]}
+{"ID":240,"Title":"Last of the Mohicans, The (1992)","Genres":["Mystery","Thriller"]}
+{"ID":241,"Title":"Kolya (1996)","Genres":["Children's"]}
+{"ID":242,"Title":"Jungle2Jungle (1997)","Genres":["Animation","Children's"]}
+{"ID":243,"Title":"Smilla's Sense of Snow (1997)","Genres":["Documentary","Sci-Fi"]}
+{"ID":244,"Title":"Devil's Own, The (1997)","Genres":["Documentary","Sci-Fi","Thriller"]}
+{"ID":245,"Title":"Chasing Amy (1997)","Genres":["Documentary","Mystery"]}
+{"ID":246,"Title":"Turbo: A Power Rangers Movie (1997)","Genres":["Action","Animation"]}
+{"ID":247,"Title":"Grosse Pointe Blank (1997)","Genres":["Children's","Comedy"]}
+{"ID":248,"Title":"Austin Powers: International Man of Mystery (1997)","Genres":["Children's"]}
+{"ID":249,"Title":"Fifth Element, The (1997)","Genres":["Romance"]}
+{"ID":250,"Title":"Shall We Dance? (1996)","Genres":["Children's"]}
+{"ID":251,"Title":"Lost World: Jurassic Park, The (1997)","Genres":["Action","Romance","Sci-Fi"]}
+{"ID":252,"Title":"Pillow Book, The (1995)","Genres":["Documentary","Mystery"]}
+{"ID":253,"Title":"Batman & Robin (1997)","Genres":["Action","Comedy"]}
+{"ID":254,"Title":"My Best Friend's Wedding (1997)","Genres":["Children's","Mystery"]}
+{"ID":255,"Title":"When the Cats Away (Chacun cherche son chat) (1996)","Genres":["Children's","Mystery"]}
+{"ID":256,"Title":"Men in Black (1997)","Genres":["Action","Children's","Romance"]}
+{"ID":257,"Title":"Contact (1997)","Genres":["Documentary","Romance"]}
+{"ID":258,"Title":"George of the Jungle (1997)","Genres":["Animation","Children's"]}
+{"ID":259,"Title":"Event Horizon (1997)","Genres":["Musical","Romance","Sci-Fi"]}
+{"ID":260,"Title":"Air Bud (1997)","Genres":["Animation","Children's"]}
+{"ID":261,"Title":"In the Company of Men (1997)","Genres":["Documentary"]}
+{"ID":262,"Title":"Steel (1997)","Genres":[]}
+{"ID":263,"Title":"Mimic (1997)","Genres":["Romance","Sci-Fi"]}
+{"ID":264,"Title":"Hunt for Red October, The (1990)","Genres":["Sci-Fi"]}
+{"ID":265,"Title":"Kull the Conqueror (1997)","Genres":["Action"]}
+{"ID":266,"Title":"unknown","Genres":[]}
+{"ID":267,"Title":"Chasing Amy (1997)","Genres":["Documentary","Mystery"]}
+{"ID":268,"Title":"Full Monty, The (1997)","Genres":["Children's"]}
+{"ID":269,"Title":"Gattaca (1997)","Genres":["Documentary","Romance","Sci-Fi"]}
+{"ID":270,"Title":"Starship Troopers (1997)","Genres":["Action","Romance","Thriller"]}
+{"ID":271,"Title":"Good Will Hunting (1997)","Genres":["Documentary"]}
+{"ID":272,"Title":"Heat (1995)","Genres":["Comedy","Sci-Fi"]}
+{"ID":273,"Title":"Sabrina (1995)","Genres":["Children's","Mystery"]}
+{"ID":274,"Title":"Sense and Sensibility (1995)","Genres":["Documentary","Mystery"]}
+{"ID":275,"Title":"Leaving Las Vegas (1995)","Genres":["Documentary","Mystery"]}
+{"ID":276,"Title":"Restoration (1995)","Genres":["Documentary"]}
+{"ID":277,"Title":"Bed of Roses (1996)","Genres":["Documentary","Mystery"]}
+{"ID":278,"Title":"Once Upon a Time... When We Were Colored (1995)","Genres":["Documentary"]}
+{"ID":279,"Title":"Up Close and Personal (1996)","Genres":["Documentary","Mystery"]}
+{"ID":280,"Title":"River Wild, The (1994)","Genres":["Sci-Fi"]}
+{"ID":281,"Title":"Time to Kill, A (1996)","Genres":["Documentary"]}
+{"ID":282,"Title":"Emma (1996)","Genres":["Documentary","Mystery"]}
+{"ID":283,"Title":"Tin Cup (1996)","Genres":["Children's","Mystery"]}
+{"ID":284,"Title":"Secrets & Lies (1996)","Genres":["Documentary"]}
+{"ID":285,"Title":"English Patient, The (1996)","Genres":["Documentary","Mystery","Thriller"]}
+{"ID":286,"Title":"Marvin's Room (1996)","Genres":["Documentary"]}
+{"ID":287,"Title":"Scream (1996)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":288,"Title":"Evita (1996)","Genres":["Documentary","Horror"]}
+{"ID":289,"Title":"Fierce Creatures (1997)","Genres":["Children's"]}
+{"ID":290,"Title":"Absolute Power (1997)","Genres":["Musical","Sci-Fi"]}
+{"ID":291,"Title":"Rosewood (1997)","Genres":["Documentary"]}
+{"ID":292,"Title":"Donnie Brasco (1997)","Genres":["Comedy","Documentary"]}
+{"ID":293,"Title":"Liar Liar (1997)","Genres":["Children's"]}
+{"ID":294,"Title":"Breakdown (1997)","Genres":["Sci-Fi"]}
+{"ID":295,"Title":"Promesse, La (1996)","Genres":["Documentary"]}
+{"ID":296,"Title":"Ulee's Gold (1997)","Genres":["Documentary"]}
+{"ID":297,"Title":"Face/Off (1997)","Genres":["Romance","Sci-Fi"]}
+{"ID":298,"Title":"Hoodlum (1997)","Genres":["Comedy","Documentary","Fantasy"]}
+{"ID":299,"Title":"Air Force One (1997)","Genres":["Sci-Fi"]}
+{"ID":300,"Title":"In & Out (1997)","Genres":["Children's"]}
+{"ID":301,"Title":"L.A. Confidential (1997)","Genres":["Comedy","Fantasy","Musical","Sci-Fi"]}
+{"ID":302,"Title":"Ulee's Gold (1997)","Genres":["Documentary"]}
+{"ID":303,"Title":"Fly Away Home (1996)","Genres":["Action","Animation"]}
+{"ID":304,"Title":"Ice Storm, The (1997)","Genres":["Documentary"]}
+{"ID":305,"Title":"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)","Genres":["Documentary","Mystery"]}
+{"ID":306,"Title":"Devil's Advocate, The (1997)","Genres":["Comedy","Film-Noir","Musical","Sci-Fi"]}
+{"ID":307,"Title":"FairyTale: A True Story (1997)","Genres":["Animation","Documentary","Drama"]}
+{"ID":308,"Title":"Deceiver (1997)","Genres":["Comedy"]}
+{"ID":309,"Title":"Rainmaker, The (1997)","Genres":["Documentary"]}
+{"ID":310,"Title":"Wings of the Dove, The (1997)","Genres":["Documentary","Mystery","Sci-Fi"]}
+{"ID":311,"Title":"Midnight in the Garden of Good and Evil (1997)","Genres":["Children's","Comedy","Documentary","Musical"]}
+{"ID":312,"Title":"Titanic (1997)","Genres":["Documentary","Mystery"]}
+{"ID":313,"Title":"3 Ninjas: High Noon At Mega Mountain (1998)","Genres":["Animation"]}
+{"ID":314,"Title":"Apt Pupil (1998)","Genres":["Documentary","Sci-Fi"]}
+{"ID":315,"Title":"As Good As It Gets (1997)","Genres":["Children's","Documentary"]}
+{"ID":316,"Title":"In the Name of the Father (1993)","Genres":["Documentary"]}
+{"ID":317,"Title":"Schindler's List (1993)","Genres":["Documentary","Thriller"]}
+{"ID":318,"Title":"Everyone Says I Love You (1996)","Genres":["Children's","Horror","Mystery"]}
+{"ID":319,"Title":"Paradise Lost: The Child Murders at Robin Hood Hills (1996)","Genres":["Crime"]}
+{"ID":320,"Title":"Mother (1996)","Genres":["Children's"]}
+{"ID":321,"Title":"Murder at 1600 (1997)","Genres":["Musical","Sci-Fi"]}
+{"ID":322,"Title":"Dante's Peak (1997)","Genres":["Sci-Fi"]}
+{"ID":323,"Title":"Lost Highway (1997)","Genres":["Musical"]}
+{"ID":324,"Title":"Crash (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":325,"Title":"G.I. Jane (1997)","Genres":["Documentary","Thriller"]}
+{"ID":326,"Title":"Cop Land (1997)","Genres":["Comedy","Documentary","Musical"]}
+{"ID":327,"Title":"Conspiracy Theory (1997)","Genres":["Musical","Mystery","Sci-Fi"]}
+{"ID":328,"Title":"Desperate Measures (1998)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":329,"Title":"187 (1997)","Genres":["Documentary"]}
+{"ID":330,"Title":"Edge, The (1997)","Genres":["Action","Sci-Fi"]}
+{"ID":331,"Title":"Kiss the Girls (1997)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":332,"Title":"Game, The (1997)","Genres":["Musical","Sci-Fi"]}
+{"ID":333,"Title":"U Turn (1997)","Genres":["Comedy","Musical"]}
+{"ID":334,"Title":"How to Be a Player (1997)","Genres":["Children's"]}
+{"ID":335,"Title":"Playing God (1997)","Genres":["Comedy","Sci-Fi"]}
+{"ID":336,"Title":"House of Yes, The (1997)","Genres":["Children's","Documentary","Sci-Fi"]}
+{"ID":337,"Title":"Bean (1997)","Genres":["Children's"]}
+{"ID":338,"Title":"Mad City (1997)","Genres":["Documentary"]}
+{"ID":339,"Title":"Boogie Nights (1997)","Genres":["Documentary"]}
+{"ID":340,"Title":"Critical Care (1997)","Genres":["Children's"]}
+{"ID":341,"Title":"Man Who Knew Too Little, The (1997)","Genres":["Children's","Musical"]}
+{"ID":342,"Title":"Alien: Resurrection (1997)","Genres":["Film-Noir","Romance"]}
+{"ID":343,"Title":"Apostle, The (1997)","Genres":["Documentary"]}
+{"ID":344,"Title":"Deconstructing Harry (1997)","Genres":["Children's","Documentary"]}
+{"ID":345,"Title":"Jackie Brown (1997)","Genres":["Comedy","Documentary"]}
+{"ID":346,"Title":"Wag the Dog (1997)","Genres":["Children's","Documentary"]}
+{"ID":347,"Title":"Desperate Measures (1998)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":348,"Title":"Hard Rain (1998)","Genres":["Sci-Fi"]}
+{"ID":349,"Title":"Fallen (1998)","Genres":["Musical","Sci-Fi"]}
+{"ID":350,"Title":"Prophecy II, The (1998)","Genres":["Film-Noir"]}
+{"ID":351,"Title":"Spice World (1997)","Genres":["Children's","Horror"]}
+{"ID":352,"Title":"Deep Rising (1998)","Genres":["Film-Noir","Romance"]}
+{"ID":353,"Title":"Wedding Singer, The (1998)","Genres":["Children's","Mystery"]}
+{"ID":354,"Title":"Sphere (1998)","Genres":["Action","Romance","Sci-Fi"]}
+{"ID":355,"Title":"Client, The (1994)","Genres":["Documentary","Musical","Sci-Fi"]}
+{"ID":356,"Title":"One Flew Over the Cuckoo's Nest (1975)","Genres":["Documentary"]}
+{"ID":357,"Title":"Spawn (1997)","Genres":["Action","Romance","Sci-Fi"]}
+{"ID":358,"Title":"Assignment, The (1997)","Genres":["Sci-Fi"]}
+{"ID":359,"Title":"Wonderland (1997)","Genres":["Crime"]}
+{"ID":360,"Title":"Incognito (1997)","Genres":["Comedy","Sci-Fi"]}
+{"ID":361,"Title":"Blues Brothers 2000 (1998)","Genres":["Children's","Horror"]}
+{"ID":362,"Title":"Sudden Death (1995)","Genres":[]}
+{"ID":363,"Title":"Ace Ventura: When Nature Calls (1995)","Genres":["Children's"]}
+{"ID":364,"Title":"Powder (1995)","Genres":["Documentary"]}
+{"ID":365,"Title":"Dangerous Minds (1995)","Genres":["Documentary"]}
+{"ID":366,"Title":"Clueless (1995)","Genres":["Children's"]}
+{"ID":367,"Title":"Bio-Dome (1996)","Genres":["Children's"]}
+{"ID":368,"Title":"Black Sheep (1996)","Genres":["Children's"]}
+{"ID":369,"Title":"Mary Reilly (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":370,"Title":"Bridges of Madison County, The (1995)","Genres":["Documentary","Mystery"]}
+{"ID":371,"Title":"Jeffrey (1995)","Genres":["Children's"]}
+{"ID":372,"Title":"Judge Dredd (1995)","Genres":["Action","Romance"]}
+{"ID":373,"Title":"Mighty Morphin Power Rangers: The Movie (1995)","Genres":["Animation"]}
+{"ID":374,"Title":"Showgirls (1995)","Genres":["Documentary"]}
+{"ID":375,"Title":"Houseguest (1994)","Genres":["Children's"]}
+{"ID":376,"Title":"Heavyweights (1994)","Genres":["Animation","Children's"]}
+{"ID":377,"Title":"Miracle on 34th Street (1994)","Genres":["Documentary"]}
+{"ID":378,"Title":"Tales From the Crypt Presents: Demon Knight (1995)","Genres":["Film-Noir"]}
+{"ID":379,"Title":"Star Trek: Generations (1994)","Genres":["Action","Romance"]}
+{"ID":380,"Title":"Muriel's Wedding (1994)","Genres":["Children's","Mystery"]}
+{"ID":381,"Title":"Adventures of Priscilla, Queen of the Desert, The (1994)","Genres":["Children's","Documentary"]}
+{"ID":382,"Title":"Flintstones, The (1994)","Genres":["Animation","Children's"]}
+{"ID":383,"Title":"Naked Gun 33 1/3: The Final Insult (1994)","Genres":["Children's"]}
+{"ID":384,"Title":"True Lies (1994)","Genres":["Action","Children's","Mystery"]}
+{"ID":385,"Title":"Addams Family Values (1993)","Genres":["Children's"]}
+{"ID":386,"Title":"Age of Innocence, The (1993)","Genres":["Documentary"]}
+{"ID":387,"Title":"Beverly Hills Cop III (1994)","Genres":["Children's"]}
+{"ID":388,"Title":"Black Beauty (1994)","Genres":["Action","Animation"]}
+{"ID":389,"Title":"Fear of a Black Hat (1993)","Genres":["Children's"]}
+{"ID":390,"Title":"Last Action Hero (1993)","Genres":["Children's"]}
+{"ID":391,"Title":"Man Without a Face, The (1993)","Genres":["Documentary"]}
+{"ID":392,"Title":"Mrs. Doubtfire (1993)","Genres":["Children's"]}
+{"ID":393,"Title":"Radioland Murders (1994)","Genres":["Children's","Musical","Mystery"]}
+{"ID":394,"Title":"Robin Hood: Men in Tights (1993)","Genres":["Children's"]}
+{"ID":395,"Title":"Serial Mom (1994)","Genres":["Children's","Comedy","Film-Noir"]}
+{"ID":396,"Title":"Striking Distance (1993)","Genres":[]}
+{"ID":397,"Title":"Super Mario Bros. (1993)","Genres":["Action","Animation","Romance"]}
+{"ID":398,"Title":"Three Musketeers, The (1993)","Genres":["Action","Children's"]}
+{"ID":399,"Title":"Little Rascals, The (1994)","Genres":["Animation","Children's"]}
+{"ID":400,"Title":"Brady Bunch Movie, The (1995)","Genres":["Children's"]}
+{"ID":401,"Title":"Ghost (1990)","Genres":["Children's","Mystery","Sci-Fi"]}
+{"ID":402,"Title":"Batman (1989)","Genres":["Action","Comedy","Documentary"]}
+{"ID":403,"Title":"Pinocchio (1940)","Genres":["Adventure","Animation"]}
+{"ID":404,"Title":"Mission: Impossible (1996)","Genres":["Action","Musical"]}
+{"ID":405,"Title":"Thinner (1996)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":406,"Title":"Spy Hard (1996)","Genres":["Children's"]}
+{"ID":407,"Title":"Close Shave, A (1995)","Genres":["Adventure","Children's","Sci-Fi"]}
+{"ID":408,"Title":"Jack (1996)","Genres":["Children's","Documentary"]}
+{"ID":409,"Title":"Kingpin (1996)","Genres":["Children's"]}
+{"ID":410,"Title":"Nutty Professor, The (1996)","Genres":["Children's","Drama","Mystery","Romance"]}
+{"ID":411,"Title":"Very Brady Sequel, A (1996)","Genres":["Children's"]}
+{"ID":412,"Title":"Tales from the Crypt Presents: Bordello of Blood (1996)","Genres":["Film-Noir"]}
+{"ID":413,"Title":"My Favorite Year (1982)","Genres":["Children's"]}
+{"ID":414,"Title":"Apple Dumpling Gang, The (1975)","Genres":["Animation","Children's","War"]}
+{"ID":415,"Title":"Old Yeller (1957)","Genres":["Animation","Documentary"]}
+{"ID":416,"Title":"Parent Trap, The (1961)","Genres":["Animation","Documentary"]}
+{"ID":417,"Title":"Cinderella (1950)","Genres":["Adventure","Animation","Horror"]}
+{"ID":418,"Title":"Mary Poppins (1964)","Genres":["Animation","Children's","Horror"]}
+{"ID":419,"Title":"Alice in Wonderland (1951)","Genres":["Adventure","Animation","Horror"]}
+{"ID":420,"Title":"William Shakespeare's Romeo and Juliet (1996)","Genres":["Documentary","Mystery"]}
+{"ID":421,"Title":"Aladdin and the King of Thieves (1996)","Genres":["Adventure","Animation","Children's"]}
+{"ID":422,"Title":"E.T. the Extra-Terrestrial (1982)","Genres":["Animation","Documentary","Drama","Romance"]}
+{"ID":423,"Title":"Children of the Corn: The Gathering (1996)","Genres":["Film-Noir"]}
+{"ID":424,"Title":"Bob Roberts (1992)","Genres":["Children's"]}
+{"ID":425,"Title":"Transformers: The Movie, The (1986)","Genres":["Adventure","Animation","Romance","Sci-Fi","Thriller"]}
+{"ID":426,"Title":"To Kill a Mockingbird (1962)","Genres":["Documentary"]}
+{"ID":427,"Title":"Harold and Maude (1971)","Genres":["Children's"]}
+{"ID":428,"Title":"Day the Earth Stood Still, The (1951)","Genres":["Documentary","Romance"]}
+{"ID":429,"Title":"Duck Soup (1933)","Genres":["Children's","Thriller"]}
+{"ID":430,"Title":"Highlander (1986)","Genres":["Action"]}
+{"ID":431,"Title":"Fantasia (1940)","Genres":["Adventure","Animation","Horror"]}
+{"ID":432,"Title":"Heathers (1989)","Genres":["Children's"]}
+{"ID":433,"Title":"Forbidden Planet (1956)","Genres":["Romance"]}
+{"ID":434,"Title":"Butch Cassidy and the Sundance Kid (1969)","Genres":["Children's","War"]}
+{"ID":435,"Title":"American Werewolf in London, An (1981)","Genres":["Film-Noir"]}
+{"ID":436,"Title":"Amityville 1992: It's About Time (1992)","Genres":["Film-Noir"]}
+{"ID":437,"Title":"Amityville 3-D (1983)","Genres":["Film-Noir"]}
+{"ID":438,"Title":"Amityville: A New Generation (1993)","Genres":["Film-Noir"]}
+{"ID":439,"Title":"Amityville II: The Possession (1982)","Genres":["Film-Noir"]}
+{"ID":440,"Title":"Amityville Horror, The (1979)","Genres":["Film-Noir"]}
+{"ID":441,"Title":"Amityville Curse, The (1990)","Genres":["Film-Noir"]}
+{"ID":442,"Title":"Birds, The (1963)","Genres":["Film-Noir"]}
+{"ID":443,"Title":"Blob, The (1958)","Genres":["Film-Noir","Romance"]}
+{"ID":444,"Title":"Body Snatcher, The (1945)","Genres":["Film-Noir"]}
+{"ID":445,"Title":"Burnt Offerings (1976)","Genres":["Film-Noir"]}
+{"ID":446,"Title":"Carrie (1976)","Genres":["Film-Noir"]}
+{"ID":447,"Title":"Omen, The (1976)","Genres":["Film-Noir"]}
+{"ID":448,"Title":"Star Trek: The Motion Picture (1979)","Genres":["Action","Romance"]}
+{"ID":449,"Title":"Star Trek V: The Final Frontier (1989)","Genres":["Action","Romance"]}
+{"ID":450,"Title":"Grease (1978)","Genres":["Children's","Horror","Mystery"]}
+{"ID":451,"Title":"Jaws 2 (1978)","Genres":["Film-Noir"]}
+{"ID":452,"Title":"Jaws 3-D (1983)","Genres":["Film-Noir"]}
+{"ID":453,"Title":"Bastard Out of Carolina (1996)","Genres":["Documentary"]}
+{"ID":454,"Title":"Jackie Chan's First Strike (1996)","Genres":[]}
+{"ID":455,"Title":"Beverly Hills Ninja (1997)","Genres":["Children's"]}
+{"ID":456,"Title":"Free Willy 3: The Rescue (1997)","Genres":["Action","Animation","Documentary"]}
+{"ID":457,"Title":"Nixon (1995)","Genres":["Documentary"]}
+{"ID":458,"Title":"Cry, the Beloved Country (1995)","Genres":["Documentary"]}
+{"ID":459,"Title":"Crossing Guard, The (1995)","Genres":["Documentary"]}
+{"ID":460,"Title":"Smoke (1995)","Genres":["Documentary"]}
+{"ID":461,"Title":"Like Water For Chocolate (Como agua para chocolate) (1992)","Genres":["Documentary","Mystery"]}
+{"ID":462,"Title":"Secret of Roan Inish, The (1994)","Genres":["Action"]}
+{"ID":463,"Title":"Vanya on 42nd Street (1994)","Genres":["Documentary"]}
+{"ID":464,"Title":"Jungle Book, The (1994)","Genres":["Action","Animation","Mystery"]}
+{"ID":465,"Title":"Red Rock West (1992)","Genres":["Sci-Fi"]}
+{"ID":466,"Title":"Bronx Tale, A (1993)","Genres":["Documentary"]}
+{"ID":467,"Title":"Rudy (1993)","Genres":["Documentary"]}
+{"ID":468,"Title":"Short Cuts (1993)","Genres":["Documentary"]}
+{"ID":469,"Title":"Tombstone (1993)","Genres":["War"]}
+{"ID":470,"Title":"Courage Under Fire (1996)","Genres":["Documentary","Thriller"]}
+{"ID":471,"Title":"Dragonheart (1996)","Genres":["Action","Drama"]}
+{"ID":472,"Title":"James and the Giant Peach (1996)","Genres":["Adventure","Animation","Horror"]}
+{"ID":473,"Title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)","Genres":["Romance","Thriller"]}
+{"ID":474,"Title":"Trainspotting (1996)","Genres":["Documentary"]}
+{"ID":475,"Title":"First Wives Club, The (1996)","Genres":["Children's"]}
+{"ID":476,"Title":"Matilda (1996)","Genres":["Animation","Children's"]}
+{"ID":477,"Title":"Philadelphia Story, The (1940)","Genres":["Children's","Mystery"]}
+{"ID":478,"Title":"Vertigo (1958)","Genres":["Musical","Sci-Fi"]}
+{"ID":479,"Title":"North by Northwest (1959)","Genres":["Children's","Sci-Fi"]}
+{"ID":480,"Title":"Apartment, The (1960)","Genres":["Children's","Documentary"]}
+{"ID":481,"Title":"Some Like It Hot (1959)","Genres":["Children's","Comedy"]}
+{"ID":482,"Title":"Casablanca (1942)","Genres":["Documentary","Mystery","Thriller"]}
+{"ID":483,"Title":"Maltese Falcon, The (1941)","Genres":["Fantasy","Musical"]}
+{"ID":484,"Title":"My Fair Lady (1964)","Genres":["Horror","Mystery"]}
+{"ID":485,"Title":"Sabrina (1954)","Genres":["Children's","Mystery"]}
+{"ID":486,"Title":"Roman Holiday (1953)","Genres":["Children's","Mystery"]}
+{"ID":487,"Title":"Sunset Blvd. (1950)","Genres":["Fantasy"]}
+{"ID":488,"Title":"Notorious (1946)","Genres":["Fantasy","Mystery","Sci-Fi"]}
+{"ID":489,"Title":"To Catch a Thief (1955)","Genres":["Children's","Mystery","Sci-Fi"]}
+{"ID":490,"Title":"Adventures of Robin Hood, The (1938)","Genres":["Action"]}
+{"ID":491,"Title":"East of Eden (1955)","Genres":["Documentary"]}
+{"ID":492,"Title":"Thin Man, The (1934)","Genres":["Musical"]}
+{"ID":493,"Title":"His Girl Friday (1940)","Genres":["Children's"]}
+{"ID":494,"Title":"Around the World in 80 Days (1956)","Genres":["Action","Children's"]}
+{"ID":495,"Title":"It's a Wonderful Life (1946)","Genres":["Documentary"]}
+{"ID":496,"Title":"Bringing Up Baby (1938)","Genres":["Children's"]}
+{"ID":497,"Title":"African Queen, The (1951)","Genres":["Action","Mystery","Thriller"]}
+{"ID":498,"Title":"Cat on a Hot Tin Roof (1958)","Genres":["Documentary"]}
+{"ID":499,"Title":"Fly Away Home (1996)","Genres":["Action","Animation"]}
+{"ID":500,"Title":"Dumbo (1941)","Genres":["Adventure","Animation","Horror"]}
+{"ID":501,"Title":"Bananas (1971)","Genres":["Children's","Thriller"]}
+{"ID":502,"Title":"Candidate, The (1972)","Genres":["Documentary"]}
+{"ID":503,"Title":"Bonnie and Clyde (1967)","Genres":["Comedy","Documentary"]}
+{"ID":504,"Title":"Dial M for Murder (1954)","Genres":["Musical","Sci-Fi"]}
+{"ID":505,"Title":"Rebel Without a Cause (1955)","Genres":["Documentary"]}
+{"ID":506,"Title":"Streetcar Named Desire, A (1951)","Genres":["Documentary"]}
+{"ID":507,"Title":"People vs. Larry Flynt, The (1996)","Genres":["Documentary"]}
+{"ID":508,"Title":"My Left Foot (1989)","Genres":["Documentary"]}
+{"ID":509,"Title":"Magnificent Seven, The (1954)","Genres":["Documentary","War"]}
+{"ID":510,"Title":"Lawrence of Arabia (1962)","Genres":["Action","Thriller"]}
+{"ID":511,"Title":"Wings of Desire (1987)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":512,"Title":"Third Man, The (1949)","Genres":["Musical","Sci-Fi"]}
+{"ID":513,"Title":"Annie Hall (1977)","Genres":["Children's","Mystery"]}
+{"ID":514,"Title":"Boot, Das (1981)","Genres":["Documentary","Thriller"]}
+{"ID":515,"Title":"Local Hero (1983)","Genres":["Children's"]}
+{"ID":516,"Title":"Manhattan (1979)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":517,"Title":"Miller's Crossing (1990)","Genres":["Documentary"]}
+{"ID":518,"Title":"Treasure of the Sierra Madre, The (1948)","Genres":["Action"]}
+{"ID":519,"Title":"Great Escape, The (1963)","Genres":["Action","Thriller"]}
+{"ID":520,"Title":"Deer Hunter, The (1978)","Genres":["Documentary","Thriller"]}
+{"ID":521,"Title":"Down by Law (1986)","Genres":["Children's","Documentary"]}
+{"ID":522,"Title":"Cool Hand Luke (1967)","Genres":["Children's","Documentary"]}
+{"ID":523,"Title":"Great Dictator, The (1940)","Genres":["Children's"]}
+{"ID":524,"Title":"Big Sleep, The (1946)","Genres":["Fantasy","Musical"]}
+{"ID":525,"Title":"Ben-Hur (1959)","Genres":["Action","Documentary"]}
+{"ID":526,"Title":"Gandhi (1982)","Genres":["Documentary"]}
+{"ID":527,"Title":"Killing Fields, The (1984)","Genres":["Documentary","Thriller"]}
+{"ID":528,"Title":"My Life as a Dog (Mitt liv som hund) (1985)","Genres":["Documentary"]}
+{"ID":529,"Title":"Man Who Would Be King, The (1975)","Genres":["Action"]}
+{"ID":530,"Title":"Shine (1996)","Genres":["Documentary","Mystery"]}
+{"ID":531,"Title":"Kama Sutra: A Tale of Love (1996)","Genres":["Mystery"]}
+{"ID":532,"Title":"Daytrippers, The (1996)","Genres":["Musical"]}
+{"ID":533,"Title":"Traveller (1997)","Genres":["Documentary"]}
+{"ID":534,"Title":"Addicted to Love (1997)","Genres":["Children's","Mystery"]}
+{"ID":535,"Title":"Ponette (1996)","Genres":["Documentary"]}
+{"ID":536,"Title":"My Own Private Idaho (1991)","Genres":["Documentary"]}
+{"ID":537,"Title":"Anastasia (1997)","Genres":["Adventure","Animation","Horror"]}
+{"ID":538,"Title":"Mouse Hunt (1997)","Genres":["Animation","Children's"]}
+{"ID":539,"Title":"Money Train (1995)","Genres":[]}
+{"ID":540,"Title":"Mortal Kombat (1995)","Genres":["Action"]}
+{"ID":541,"Title":"Pocahontas (1995)","Genres":["Adventure","Animation","Horror","Mystery"]}
+{"ID":542,"Title":"Mis�rables, Les (1995)","Genres":["Documentary","Horror"]}
+{"ID":543,"Title":"Things to Do in Denver when You're Dead (1995)","Genres":["Comedy","Documentary","Mystery"]}
+{"ID":544,"Title":"Vampire in Brooklyn (1995)","Genres":["Children's","Mystery"]}
+{"ID":545,"Title":"Broken Arrow (1996)","Genres":["Sci-Fi"]}
+{"ID":546,"Title":"Young Poisoner's Handbook, The (1995)","Genres":["Comedy"]}
+{"ID":547,"Title":"NeverEnding Story III, The (1994)","Genres":["Animation","Drama"]}
+{"ID":548,"Title":"Rob Roy (1995)","Genres":["Documentary","Mystery","Thriller"]}
+{"ID":549,"Title":"Die Hard: With a Vengeance (1995)","Genres":["Sci-Fi"]}
+{"ID":550,"Title":"Lord of Illusions (1995)","Genres":["Film-Noir"]}
+{"ID":551,"Title":"Species (1995)","Genres":["Romance"]}
+{"ID":552,"Title":"Walk in the Clouds, A (1995)","Genres":["Documentary","Mystery"]}
+{"ID":553,"Title":"Waterworld (1995)","Genres":["Action"]}
+{"ID":554,"Title":"White Man's Burden (1995)","Genres":["Documentary"]}
+{"ID":555,"Title":"Wild Bill (1995)","Genres":["War"]}
+{"ID":556,"Title":"Farinelli: il castrato (1994)","Genres":["Documentary","Horror"]}
+{"ID":557,"Title":"Heavenly Creatures (1994)","Genres":["Documentary","Drama","Sci-Fi"]}
+{"ID":558,"Title":"Interview with the Vampire (1994)","Genres":["Documentary","Film-Noir"]}
+{"ID":559,"Title":"Kid in King Arthur's Court, A (1995)","Genres":["Action","Animation","Children's","Drama","Mystery","Romance"]}
+{"ID":560,"Title":"Mary Shelley's Frankenstein (1994)","Genres":["Documentary","Film-Noir"]}
+{"ID":561,"Title":"Quick and the Dead, The (1995)","Genres":["Action","War"]}
+{"ID":562,"Title":"Stephen King's The Langoliers (1995)","Genres":["Film-Noir"]}
+{"ID":563,"Title":"Tales from the Hood (1995)","Genres":["Children's","Film-Noir"]}
+{"ID":564,"Title":"Village of the Damned (1995)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":565,"Title":"Clear and Present Danger (1994)","Genres":["Action","Sci-Fi"]}
+{"ID":566,"Title":"Wes Craven's New Nightmare (1994)","Genres":["Film-Noir"]}
+{"ID":567,"Title":"Speed (1994)","Genres":["Mystery","Sci-Fi"]}
+{"ID":568,"Title":"Wolf (1994)","Genres":["Documentary","Film-Noir"]}
+{"ID":569,"Title":"Wyatt Earp (1994)","Genres":["War"]}
+{"ID":570,"Title":"Another Stakeout (1993)","Genres":["Children's","Sci-Fi"]}
+{"ID":571,"Title":"Blown Away (1994)","Genres":["Sci-Fi"]}
+{"ID":572,"Title":"Body Snatchers (1993)","Genres":["Film-Noir","Romance","Sci-Fi"]}
+{"ID":573,"Title":"Boxing Helena (1993)","Genres":["Musical","Mystery","Sci-Fi"]}
+{"ID":574,"Title":"City Slickers II: The Legend of Curly's Gold (1994)","Genres":["Children's","War"]}
+{"ID":575,"Title":"Cliffhanger (1993)","Genres":["Action","Comedy"]}
+{"ID":576,"Title":"Coneheads (1993)","Genres":["Children's","Romance"]}
+{"ID":577,"Title":"Demolition Man (1993)","Genres":["Romance"]}
+{"ID":578,"Title":"Fatal Instinct (1993)","Genres":["Children's"]}
+{"ID":579,"Title":"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)","Genres":["Children's","Mystery"]}
+{"ID":580,"Title":"Kalifornia (1993)","Genres":["Documentary","Sci-Fi"]}
+{"ID":581,"Title":"Piano, The (1993)","Genres":["Documentary","Mystery"]}
+{"ID":582,"Title":"Romeo Is Bleeding (1993)","Genres":["Comedy","Sci-Fi"]}
+{"ID":583,"Title":"Secret Garden, The (1993)","Genres":["Animation","Documentary"]}
+{"ID":584,"Title":"Son in Law (1993)","Genres":["Children's"]}
+{"ID":585,"Title":"Terminal Velocity (1994)","Genres":[]}
+{"ID":586,"Title":"Hour of the Pig, The (1993)","Genres":["Documentary","Musical"]}
+{"ID":587,"Title":"Beauty and the Beast (1991)","Genres":["Adventure","Animation","Horror"]}
+{"ID":588,"Title":"Wild Bunch, The (1969)","Genres":["War"]}
+{"ID":589,"Title":"Hellraiser: Bloodline (1996)","Genres":["Film-Noir","Romance"]}
+{"ID":590,"Title":"Primal Fear (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":591,"Title":"True Crime (1995)","Genres":["Musical","Sci-Fi"]}
+{"ID":592,"Title":"Stalingrad (1993)","Genres":["Thriller"]}
+{"ID":593,"Title":"Heavy (1995)","Genres":["Documentary","Mystery"]}
+{"ID":594,"Title":"Fan, The (1996)","Genres":["Sci-Fi"]}
+{"ID":595,"Title":"Hunchback of Notre Dame, The (1996)","Genres":["Adventure","Animation","Horror"]}
+{"ID":596,"Title":"Eraser (1996)","Genres":["Sci-Fi"]}
+{"ID":597,"Title":"Big Squeeze, The (1996)","Genres":["Children's","Documentary"]}
+{"ID":598,"Title":"Police Story 4: Project S (Chao ji ji hua) (1993)","Genres":[]}
+{"ID":599,"Title":"Daniel Defoe's Robinson Crusoe (1996)","Genres":["Animation"]}
+{"ID":600,"Title":"For Whom the Bell Tolls (1943)","Genres":["Action","Thriller"]}
+{"ID":601,"Title":"American in Paris, An (1951)","Genres":["Horror","Mystery"]}
+{"ID":602,"Title":"Rear Window (1954)","Genres":["Musical","Sci-Fi"]}
+{"ID":603,"Title":"It Happened One Night (1934)","Genres":["Children's"]}
+{"ID":604,"Title":"Meet Me in St. Louis (1944)","Genres":["Horror"]}
+{"ID":605,"Title":"All About Eve (1950)","Genres":["Documentary"]}
+{"ID":606,"Title":"Rebecca (1940)","Genres":["Mystery","Sci-Fi"]}
+{"ID":607,"Title":"Spellbound (1945)","Genres":["Musical","Mystery","Sci-Fi"]}
+{"ID":608,"Title":"Father of the Bride (1950)","Genres":["Children's"]}
+{"ID":609,"Title":"Gigi (1958)","Genres":["Horror"]}
+{"ID":610,"Title":"Laura (1944)","Genres":["Comedy","Fantasy","Musical"]}
+{"ID":611,"Title":"Lost Horizon (1937)","Genres":["Documentary"]}
+{"ID":612,"Title":"My Man Godfrey (1936)","Genres":["Children's"]}
+{"ID":613,"Title":"Giant (1956)","Genres":["Documentary"]}
+{"ID":614,"Title":"39 Steps, The (1935)","Genres":["Sci-Fi"]}
+{"ID":615,"Title":"Night of the Living Dead (1968)","Genres":["Film-Noir","Romance"]}
+{"ID":616,"Title":"Blue Angel, The (Blaue Engel, Der) (1930)","Genres":["Documentary"]}
+{"ID":617,"Title":"Picnic (1955)","Genres":["Documentary"]}
+{"ID":618,"Title":"Extreme Measures (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":619,"Title":"Chamber, The (1996)","Genres":["Documentary"]}
+{"ID":620,"Title":"Davy Crockett, King of the Wild Frontier (1955)","Genres":["War"]}
+{"ID":621,"Title":"Swiss Family Robinson (1960)","Genres":["Action","Animation"]}
+{"ID":622,"Title":"Angels in the Outfield (1994)","Genres":["Animation","Children's"]}
+{"ID":623,"Title":"Three Caballeros, The (1945)","Genres":["Adventure","Animation","Horror"]}
+{"ID":624,"Title":"Sword in the Stone, The (1963)","Genres":["Adventure","Animation"]}
+{"ID":625,"Title":"So Dear to My Heart (1949)","Genres":["Animation","Documentary"]}
+{"ID":626,"Title":"Robin Hood: Prince of Thieves (1991)","Genres":["Documentary"]}
+{"ID":627,"Title":"Sleepers (1996)","Genres":["Comedy","Documentary"]}
+{"ID":628,"Title":"Victor/Victoria (1982)","Genres":["Children's","Horror"]}
+{"ID":629,"Title":"Great Race, The (1965)","Genres":["Children's","Horror"]}
+{"ID":630,"Title":"Crying Game, The (1992)","Genres":["Documentary","Mystery","Thriller"]}
+{"ID":631,"Title":"Sophie's Choice (1982)","Genres":["Documentary"]}
+{"ID":632,"Title":"Christmas Carol, A (1938)","Genres":["Documentary"]}
+{"ID":633,"Title":"Microcosmos: Le peuple de l'herbe (1996)","Genres":["Crime"]}
+{"ID":634,"Title":"Fog, The (1980)","Genres":["Film-Noir"]}
+{"ID":635,"Title":"Escape from New York (1981)","Genres":["Action","Romance","Sci-Fi"]}
+{"ID":636,"Title":"Howling, The (1981)","Genres":["Children's","Film-Noir"]}
+{"ID":637,"Title":"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)","Genres":["Documentary"]}
+{"ID":638,"Title":"Tin Drum, The (Blechtrommel, Die) (1979)","Genres":["Documentary"]}
+{"ID":639,"Title":"Cook the Thief His Wife & Her Lover, The (1989)","Genres":["Documentary"]}
+{"ID":640,"Title":"Paths of Glory (1957)","Genres":["Documentary","Thriller"]}
+{"ID":641,"Title":"Grifters, The (1990)","Genres":["Comedy","Documentary","Fantasy"]}
+{"ID":642,"Title":"The Innocent (1994)","Genres":["Documentary","Mystery"]}
+{"ID":643,"Title":"Thin Blue Line, The (1988)","Genres":["Crime"]}
+{"ID":644,"Title":"Paris Is Burning (1990)","Genres":["Crime"]}
+{"ID":645,"Title":"Once Upon a Time in the West (1969)","Genres":["War"]}
+{"ID":646,"Title":"Ran (1985)","Genres":["Documentary","Thriller"]}
+{"ID":647,"Title":"Quiet Man, The (1952)","Genres":["Children's","Mystery"]}
+{"ID":648,"Title":"Once Upon a Time in America (1984)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":649,"Title":"Seventh Seal, The (Sjunde inseglet, Det) (1957)","Genres":["Documentary"]}
+{"ID":650,"Title":"Glory (1989)","Genres":["Documentary","Thriller"]}
+{"ID":651,"Title":"Rosencrantz and Guildenstern Are Dead (1990)","Genres":["Children's","Documentary"]}
+{"ID":652,"Title":"Touch of Evil (1958)","Genres":["Comedy","Fantasy","Sci-Fi"]}
+{"ID":653,"Title":"Chinatown (1974)","Genres":["Fantasy","Musical","Sci-Fi"]}
+{"ID":654,"Title":"Stand by Me (1986)","Genres":["Action","Children's","Documentary"]}
+{"ID":655,"Title":"M (1931)","Genres":["Comedy","Fantasy","Sci-Fi"]}
+{"ID":656,"Title":"Manchurian Candidate, The (1962)","Genres":["Fantasy","Sci-Fi"]}
+{"ID":657,"Title":"Pump Up the Volume (1990)","Genres":["Documentary"]}
+{"ID":658,"Title":"Arsenic and Old Lace (1944)","Genres":["Children's","Musical","Sci-Fi"]}
+{"ID":659,"Title":"Fried Green Tomatoes (1991)","Genres":["Documentary"]}
+{"ID":660,"Title":"High Noon (1952)","Genres":["War"]}
+{"ID":661,"Title":"Somewhere in Time (1980)","Genres":["Documentary","Mystery"]}
+{"ID":662,"Title":"Being There (1979)","Genres":["Children's"]}
+{"ID":663,"Title":"Paris, Texas (1984)","Genres":["Documentary"]}
+{"ID":664,"Title":"Alien 3 (1992)","Genres":["Film-Noir","Romance","Sci-Fi"]}
+{"ID":665,"Title":"Blood For Dracula (Andy Warhol's Dracula) (1974)","Genres":["Film-Noir"]}
+{"ID":666,"Title":"Audrey Rose (1977)","Genres":["Film-Noir"]}
+{"ID":667,"Title":"Blood Beach (1981)","Genres":["Film-Noir"]}
+{"ID":668,"Title":"Body Parts (1991)","Genres":["Film-Noir"]}
+{"ID":669,"Title":"Body Snatchers (1993)","Genres":["Film-Noir","Romance","Sci-Fi"]}
+{"ID":670,"Title":"Bride of Frankenstein (1935)","Genres":["Film-Noir"]}
+{"ID":671,"Title":"Candyman (1992)","Genres":["Film-Noir"]}
+{"ID":672,"Title":"Cape Fear (1962)","Genres":["Fantasy","Sci-Fi"]}
+{"ID":673,"Title":"Cat People (1982)","Genres":["Film-Noir"]}
+{"ID":674,"Title":"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)","Genres":["Film-Noir"]}
+{"ID":675,"Title":"Crucible, The (1996)","Genres":["Documentary"]}
+{"ID":676,"Title":"Fire on the Mountain (1996)","Genres":["Crime"]}
+{"ID":677,"Title":"Volcano (1997)","Genres":["Documentary","Sci-Fi"]}
+{"ID":678,"Title":"Conan the Barbarian (1981)","Genres":["Action"]}
+{"ID":679,"Title":"Kull the Conqueror (1997)","Genres":["Action"]}
+{"ID":680,"Title":"Wishmaster (1997)","Genres":["Film-Noir"]}
+{"ID":681,"Title":"I Know What You Did Last Summer (1997)","Genres":["Film-Noir","Musical","Sci-Fi"]}
+{"ID":682,"Title":"Rocket Man (1997)","Genres":["Children's"]}
+{"ID":683,"Title":"In the Line of Fire (1993)","Genres":["Sci-Fi"]}
+{"ID":684,"Title":"Executive Decision (1996)","Genres":["Sci-Fi"]}
+{"ID":685,"Title":"Perfect World, A (1993)","Genres":["Documentary"]}
+{"ID":686,"Title":"McHale's Navy (1997)","Genres":["Children's","Thriller"]}
+{"ID":687,"Title":"Leave It to Beaver (1997)","Genres":["Children's"]}
+{"ID":688,"Title":"Jackal, The (1997)","Genres":["Sci-Fi"]}
+{"ID":689,"Title":"Seven Years in Tibet (1997)","Genres":["Documentary","Thriller"]}
+{"ID":690,"Title":"Dark City (1998)","Genres":["Fantasy","Romance","Sci-Fi"]}
+{"ID":691,"Title":"American President, The (1995)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":692,"Title":"Casino (1995)","Genres":["Documentary"]}
+{"ID":693,"Title":"Persuasion (1995)","Genres":["Mystery"]}
+{"ID":694,"Title":"Kicking and Screaming (1995)","Genres":["Children's","Documentary"]}
+{"ID":695,"Title":"City Hall (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":696,"Title":"Basketball Diaries, The (1995)","Genres":["Documentary"]}
+{"ID":697,"Title":"Browning Version, The (1994)","Genres":["Documentary"]}
+{"ID":698,"Title":"Little Women (1994)","Genres":["Documentary"]}
+{"ID":699,"Title":"Miami Rhapsody (1995)","Genres":["Children's"]}
+{"ID":700,"Title":"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)","Genres":["Crime"]}
+{"ID":701,"Title":"Barcelona (1994)","Genres":["Children's","Mystery"]}
+{"ID":702,"Title":"Widows' Peak (1994)","Genres":["Documentary"]}
+{"ID":703,"Title":"House of the Spirits, The (1993)","Genres":["Documentary","Mystery"]}
+{"ID":704,"Title":"Singin' in the Rain (1952)","Genres":["Horror","Mystery"]}
+{"ID":705,"Title":"Bad Moon (1996)","Genres":["Film-Noir"]}
+{"ID":706,"Title":"Enchanted April (1991)","Genres":["Documentary"]}
+{"ID":707,"Title":"Sex, Lies, and Videotape (1989)","Genres":["Documentary"]}
+{"ID":708,"Title":"Strictly Ballroom (1992)","Genres":["Children's","Mystery"]}
+{"ID":709,"Title":"Better Off Dead... (1985)","Genres":["Children's"]}
+{"ID":710,"Title":"Substance of Fire, The (1996)","Genres":["Documentary"]}
+{"ID":711,"Title":"Tin Men (1987)","Genres":["Children's","Documentary"]}
+{"ID":712,"Title":"Othello (1995)","Genres":["Documentary"]}
+{"ID":713,"Title":"Carrington (1995)","Genres":["Documentary","Mystery"]}
+{"ID":714,"Title":"To Die For (1995)","Genres":["Children's","Documentary"]}
+{"ID":715,"Title":"Home for the Holidays (1995)","Genres":["Documentary","Mystery"]}
+{"ID":716,"Title":"Juror, The (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":717,"Title":"In the Bleak Midwinter (1995)","Genres":["Children's"]}
+{"ID":718,"Title":"Canadian Bacon (1994)","Genres":["Children's","Thriller"]}
+{"ID":719,"Title":"First Knight (1995)","Genres":["Action","Documentary","Mystery"]}
+{"ID":720,"Title":"Mallrats (1995)","Genres":["Children's"]}
+{"ID":721,"Title":"Nine Months (1995)","Genres":["Children's"]}
+{"ID":722,"Title":"Boys on the Side (1995)","Genres":["Children's","Documentary"]}
+{"ID":723,"Title":"Circle of Friends (1995)","Genres":["Documentary","Mystery"]}
+{"ID":724,"Title":"Exit to Eden (1994)","Genres":["Children's"]}
+{"ID":725,"Title":"Fluke (1995)","Genres":["Animation","Documentary"]}
+{"ID":726,"Title":"Immortal Beloved (1994)","Genres":["Documentary","Mystery"]}
+{"ID":727,"Title":"Junior (1994)","Genres":["Children's","Romance"]}
+{"ID":728,"Title":"Nell (1994)","Genres":["Documentary"]}
+{"ID":729,"Title":"Queen Margot (Reine Margot, La) (1994)","Genres":["Documentary","Mystery"]}
+{"ID":730,"Title":"Corrina, Corrina (1994)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":731,"Title":"Dave (1993)","Genres":["Children's","Mystery"]}
+{"ID":732,"Title":"Go Fish (1994)","Genres":["Documentary","Mystery"]}
+{"ID":733,"Title":"Made in America (1993)","Genres":["Children's"]}
+{"ID":734,"Title":"Philadelphia (1993)","Genres":["Documentary"]}
+{"ID":735,"Title":"Shadowlands (1993)","Genres":["Documentary","Mystery"]}
+{"ID":736,"Title":"Sirens (1994)","Genres":["Children's","Documentary"]}
+{"ID":737,"Title":"Threesome (1994)","Genres":["Children's","Mystery"]}
+{"ID":738,"Title":"Pretty Woman (1990)","Genres":["Children's","Mystery"]}
+{"ID":739,"Title":"Jane Eyre (1996)","Genres":["Documentary","Mystery"]}
+{"ID":740,"Title":"Last Supper, The (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":741,"Title":"Ransom (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":742,"Title":"Crow: City of Angels, The (1996)","Genres":["Sci-Fi"]}
+{"ID":743,"Title":"Michael Collins (1996)","Genres":["Documentary","Thriller"]}
+{"ID":744,"Title":"Ruling Class, The (1972)","Genres":["Children's"]}
+{"ID":745,"Title":"Real Genius (1985)","Genres":["Children's"]}
+{"ID":746,"Title":"Benny & Joon (1993)","Genres":["Children's","Mystery"]}
+{"ID":747,"Title":"Saint, The (1997)","Genres":["Mystery","Sci-Fi"]}
+{"ID":748,"Title":"MatchMaker, The (1997)","Genres":["Children's","Mystery"]}
+{"ID":749,"Title":"Amistad (1997)","Genres":["Documentary"]}
+{"ID":750,"Title":"Tomorrow Never Dies (1997)","Genres":["Mystery","Sci-Fi"]}
+{"ID":751,"Title":"Replacement Killers, The (1998)","Genres":["Sci-Fi"]}
+{"ID":752,"Title":"Burnt By the Sun (1994)","Genres":["Documentary"]}
+{"ID":753,"Title":"Red Corner (1997)","Genres":["Comedy","Sci-Fi"]}
+{"ID":754,"Title":"Jumanji (1995)","Genres":["Action","Animation","Drama","Romance"]}
+{"ID":755,"Title":"Father of the Bride Part II (1995)","Genres":["Children's"]}
+{"ID":756,"Title":"Across the Sea of Time (1995)","Genres":["Crime"]}
+{"ID":757,"Title":"Lawnmower Man 2: Beyond Cyberspace (1996)","Genres":["Romance","Sci-Fi"]}
+{"ID":758,"Title":"Fair Game (1995)","Genres":[]}
+{"ID":759,"Title":"Screamers (1995)","Genres":["Romance"]}
+{"ID":760,"Title":"Nick of Time (1995)","Genres":["Sci-Fi"]}
+{"ID":761,"Title":"Beautiful Girls (1996)","Genres":["Documentary"]}
+{"ID":762,"Title":"Happy Gilmore (1996)","Genres":["Children's"]}
+{"ID":763,"Title":"If Lucy Fell (1996)","Genres":["Children's","Mystery"]}
+{"ID":764,"Title":"Boomerang (1992)","Genres":["Children's","Mystery"]}
+{"ID":765,"Title":"Man of the Year (1995)","Genres":["Crime"]}
+{"ID":766,"Title":"Addiction, The (1995)","Genres":["Film-Noir"]}
+{"ID":767,"Title":"Casper (1995)","Genres":["Action","Animation"]}
+{"ID":768,"Title":"Congo (1995)","Genres":["Action","Musical","Romance"]}
+{"ID":769,"Title":"Devil in a Blue Dress (1995)","Genres":["Comedy","Fantasy","Musical","Sci-Fi"]}
+{"ID":770,"Title":"Johnny Mnemonic (1995)","Genres":["Romance","Sci-Fi"]}
+{"ID":771,"Title":"Kids (1995)","Genres":["Documentary"]}
+{"ID":772,"Title":"Mute Witness (1994)","Genres":["Sci-Fi"]}
+{"ID":773,"Title":"Prophecy, The (1995)","Genres":["Film-Noir"]}
+{"ID":774,"Title":"Something to Talk About (1995)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":775,"Title":"Three Wishes (1995)","Genres":["Documentary"]}
+{"ID":776,"Title":"Castle Freak (1995)","Genres":["Film-Noir"]}
+{"ID":777,"Title":"Don Juan DeMarco (1995)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":778,"Title":"Drop Zone (1994)","Genres":[]}
+{"ID":779,"Title":"Dumb & Dumber (1994)","Genres":["Children's"]}
+{"ID":780,"Title":"French Kiss (1995)","Genres":["Children's","Mystery"]}
+{"ID":781,"Title":"Little Odessa (1994)","Genres":["Documentary"]}
+{"ID":782,"Title":"Milk Money (1994)","Genres":["Children's","Mystery"]}
+{"ID":783,"Title":"Beyond Bedlam (1993)","Genres":["Documentary","Film-Noir"]}
+{"ID":784,"Title":"Only You (1994)","Genres":["Children's","Mystery"]}
+{"ID":785,"Title":"Perez Family, The (1995)","Genres":["Children's","Mystery"]}
+{"ID":786,"Title":"Roommates (1995)","Genres":["Children's","Documentary"]}
+{"ID":787,"Title":"Relative Fear (1994)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":788,"Title":"Swimming with Sharks (1995)","Genres":["Children's","Documentary"]}
+{"ID":789,"Title":"Tommy Boy (1995)","Genres":["Children's"]}
+{"ID":790,"Title":"Baby-Sitters Club, The (1995)","Genres":["Animation"]}
+{"ID":791,"Title":"Bullets Over Broadway (1994)","Genres":["Children's"]}
+{"ID":792,"Title":"Crooklyn (1994)","Genres":["Children's"]}
+{"ID":793,"Title":"It Could Happen to You (1994)","Genres":["Documentary","Mystery"]}
+{"ID":794,"Title":"Richie Rich (1994)","Genres":["Animation","Children's"]}
+{"ID":795,"Title":"Speechless (1994)","Genres":["Children's","Mystery"]}
+{"ID":796,"Title":"Timecop (1994)","Genres":["Romance"]}
+{"ID":797,"Title":"Bad Company (1995)","Genres":[]}
+{"ID":798,"Title":"Boys Life (1995)","Genres":["Documentary"]}
+{"ID":799,"Title":"In the Mouth of Madness (1995)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":800,"Title":"Air Up There, The (1994)","Genres":["Children's"]}
+{"ID":801,"Title":"Hard Target (1993)","Genres":["Action","Comedy","Sci-Fi"]}
+{"ID":802,"Title":"Heaven & Earth (1993)","Genres":["Documentary","Thriller"]}
+{"ID":803,"Title":"Jimmy Hollywood (1994)","Genres":["Children's"]}
+{"ID":804,"Title":"Manhattan Murder Mystery (1993)","Genres":["Children's","Musical"]}
+{"ID":805,"Title":"Menace II Society (1993)","Genres":["Comedy","Documentary"]}
+{"ID":806,"Title":"Poetic Justice (1993)","Genres":["Documentary"]}
+{"ID":807,"Title":"Program, The (1993)","Genres":["Documentary"]}
+{"ID":808,"Title":"Rising Sun (1993)","Genres":["Documentary","Musical"]}
+{"ID":809,"Title":"Shadow, The (1994)","Genres":[]}
+{"ID":810,"Title":"Thirty-Two Short Films About Glenn Gould (1993)","Genres":["Crime"]}
+{"ID":811,"Title":"Andre (1994)","Genres":["Action","Animation"]}
+{"ID":812,"Title":"Celluloid Closet, The (1995)","Genres":["Crime"]}
+{"ID":813,"Title":"Great Day in Harlem, A (1994)","Genres":["Crime"]}
+{"ID":814,"Title":"One Fine Day (1996)","Genres":["Documentary","Mystery"]}
+{"ID":815,"Title":"Candyman: Farewell to the Flesh (1995)","Genres":["Film-Noir"]}
+{"ID":816,"Title":"Frisk (1995)","Genres":["Documentary"]}
+{"ID":817,"Title":"Girl 6 (1996)","Genres":["Children's"]}
+{"ID":818,"Title":"Eddie (1996)","Genres":["Children's"]}
+{"ID":819,"Title":"Space Jam (1996)","Genres":["Action","Adventure","Animation","Children's","Drama"]}
+{"ID":820,"Title":"Mrs. Winterbourne (1996)","Genres":["Children's","Mystery"]}
+{"ID":821,"Title":"Faces (1968)","Genres":["Documentary"]}
+{"ID":822,"Title":"Mulholland Falls (1996)","Genres":["Comedy","Fantasy","Sci-Fi"]}
+{"ID":823,"Title":"Great White Hype, The (1996)","Genres":["Children's"]}
+{"ID":824,"Title":"Arrival, The (1996)","Genres":["Romance","Sci-Fi"]}
+{"ID":825,"Title":"Phantom, The (1996)","Genres":["Action"]}
+{"ID":826,"Title":"Daylight (1996)","Genres":["Action","Sci-Fi"]}
+{"ID":827,"Title":"Alaska (1996)","Genres":["Action","Animation"]}
+{"ID":828,"Title":"Fled (1996)","Genres":["Action"]}
+{"ID":829,"Title":"Power 98 (1995)","Genres":["Musical","Sci-Fi"]}
+{"ID":830,"Title":"Escape from L.A. (1996)","Genres":["Action","Romance","Sci-Fi"]}
+{"ID":831,"Title":"Bogus (1996)","Genres":["Animation","Documentary","Drama"]}
+{"ID":832,"Title":"Bulletproof (1996)","Genres":[]}
+{"ID":833,"Title":"Halloween: The Curse of Michael Myers (1995)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":834,"Title":"Gay Divorcee, The (1934)","Genres":["Children's","Horror","Mystery"]}
+{"ID":835,"Title":"Ninotchka (1939)","Genres":["Children's","Mystery"]}
+{"ID":836,"Title":"Meet John Doe (1941)","Genres":["Documentary"]}
+{"ID":837,"Title":"In the Line of Duty 2 (1987)","Genres":[]}
+{"ID":838,"Title":"Loch Ness (1995)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":839,"Title":"Last Man Standing (1996)","Genres":["Documentary","War"]}
+{"ID":840,"Title":"Glimmer Man, The (1996)","Genres":["Sci-Fi"]}
+{"ID":841,"Title":"Pollyanna (1960)","Genres":["Animation","Children's","Documentary"]}
+{"ID":842,"Title":"Shaggy Dog, The (1959)","Genres":["Animation","Children's"]}
+{"ID":843,"Title":"Freeway (1996)","Genres":["Comedy"]}
+{"ID":844,"Title":"That Thing You Do! (1996)","Genres":["Children's"]}
+{"ID":845,"Title":"To Gillian on Her 37th Birthday (1996)","Genres":["Documentary","Mystery"]}
+{"ID":846,"Title":"Looking for Richard (1996)","Genres":["Crime","Documentary"]}
+{"ID":847,"Title":"Murder, My Sweet (1944)","Genres":["Fantasy","Sci-Fi"]}
+{"ID":848,"Title":"Days of Thunder (1990)","Genres":["Mystery"]}
+{"ID":849,"Title":"Perfect Candidate, A (1996)","Genres":["Crime"]}
+{"ID":850,"Title":"Two or Three Things I Know About Her (1966)","Genres":["Documentary"]}
+{"ID":851,"Title":"Bloody Child, The (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":852,"Title":"Braindead (1992)","Genres":["Children's","Film-Noir"]}
+{"ID":853,"Title":"Bad Taste (1987)","Genres":["Children's","Film-Noir"]}
+{"ID":854,"Title":"Diva (1981)","Genres":["Documentary","Musical","Mystery","Sci-Fi"]}
+{"ID":855,"Title":"Night on Earth (1991)","Genres":["Children's","Documentary"]}
+{"ID":856,"Title":"Paris Was a Woman (1995)","Genres":["Crime"]}
+{"ID":857,"Title":"Amityville: Dollhouse (1996)","Genres":["Film-Noir"]}
+{"ID":858,"Title":"April Fool's Day (1986)","Genres":["Children's","Film-Noir"]}
+{"ID":859,"Title":"Believers, The (1987)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":860,"Title":"Nosferatu a Venezia (1986)","Genres":["Film-Noir"]}
+{"ID":861,"Title":"Jingle All the Way (1996)","Genres":["Action","Animation","Children's"]}
+{"ID":862,"Title":"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)","Genres":["Documentary"]}
+{"ID":863,"Title":"My Fellow Americans (1996)","Genres":["Children's"]}
+{"ID":864,"Title":"Ice Storm, The (1997)","Genres":["Documentary"]}
+{"ID":865,"Title":"Michael (1996)","Genres":["Children's","Mystery"]}
+{"ID":866,"Title":"Whole Wide World, The (1996)","Genres":["Documentary"]}
+{"ID":867,"Title":"Hearts and Minds (1996)","Genres":["Documentary"]}
+{"ID":868,"Title":"Fools Rush In (1997)","Genres":["Children's","Mystery"]}
+{"ID":869,"Title":"Touch (1997)","Genres":["Mystery"]}
+{"ID":870,"Title":"Vegas Vacation (1997)","Genres":["Children's"]}
+{"ID":871,"Title":"Love Jones (1997)","Genres":["Mystery"]}
+{"ID":872,"Title":"Picture Perfect (1997)","Genres":["Children's","Mystery"]}
+{"ID":873,"Title":"Career Girls (1997)","Genres":["Documentary"]}
+{"ID":874,"Title":"She's So Lovely (1997)","Genres":["Documentary","Mystery"]}
+{"ID":875,"Title":"Money Talks (1997)","Genres":["Children's"]}
+{"ID":876,"Title":"Excess Baggage (1997)","Genres":["Action","Mystery"]}
+{"ID":877,"Title":"That Darn Cat! (1997)","Genres":["Animation","Children's","Musical"]}
+{"ID":878,"Title":"Peacemaker, The (1997)","Genres":["Sci-Fi","Thriller"]}
+{"ID":879,"Title":"Soul Food (1997)","Genres":["Documentary"]}
+{"ID":880,"Title":"Money Talks (1997)","Genres":["Children's"]}
+{"ID":881,"Title":"Washington Square (1997)","Genres":["Documentary"]}
+{"ID":882,"Title":"Telling Lies in America (1997)","Genres":["Documentary"]}
+{"ID":883,"Title":"Year of the Horse (1997)","Genres":["Crime"]}
+{"ID":884,"Title":"Phantoms (1998)","Genres":["Film-Noir"]}
+{"ID":885,"Title":"Life Less Ordinary, A (1997)","Genres":["Mystery","Sci-Fi"]}
+{"ID":886,"Title":"Eve's Bayou (1997)","Genres":["Documentary"]}
+{"ID":887,"Title":"One Night Stand (1997)","Genres":["Documentary"]}
+{"ID":888,"Title":"Tango Lesson, The (1997)","Genres":["Mystery"]}
+{"ID":889,"Title":"Mortal Kombat: Annihilation (1997)","Genres":["Action"]}
+{"ID":890,"Title":"Bent (1997)","Genres":["Documentary","Thriller"]}
+{"ID":891,"Title":"Flubber (1997)","Genres":["Animation","Children's","Drama"]}
+{"ID":892,"Title":"For Richer or Poorer (1997)","Genres":["Children's"]}
+{"ID":893,"Title":"Home Alone 3 (1997)","Genres":["Animation","Children's"]}
+{"ID":894,"Title":"Scream 2 (1997)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":895,"Title":"Sweet Hereafter, The (1997)","Genres":["Documentary"]}
+{"ID":896,"Title":"Time Tracers (1995)","Genres":["Action","Romance"]}
+{"ID":897,"Title":"Postman, The (1997)","Genres":["Documentary"]}
+{"ID":898,"Title":"Winter Guest, The (1997)","Genres":["Documentary"]}
+{"ID":899,"Title":"Kundun (1997)","Genres":["Documentary"]}
+{"ID":900,"Title":"Mr. Magoo (1997)","Genres":["Children's"]}
+{"ID":901,"Title":"Big Lebowski, The (1998)","Genres":["Children's","Comedy","Musical","Sci-Fi"]}
+{"ID":902,"Title":"Afterglow (1997)","Genres":["Documentary","Mystery"]}
+{"ID":903,"Title":"Ma vie en rose (My Life in Pink) (1997)","Genres":["Children's","Documentary"]}
+{"ID":904,"Title":"Great Expectations (1998)","Genres":["Documentary","Mystery"]}
+{"ID":905,"Title":"Oscar & Lucinda (1997)","Genres":["Documentary","Mystery"]}
+{"ID":906,"Title":"Vermin (1998)","Genres":["Children's"]}
+{"ID":907,"Title":"Half Baked (1998)","Genres":["Children's"]}
+{"ID":908,"Title":"Dangerous Beauty (1998)","Genres":["Documentary"]}
+{"ID":909,"Title":"Nil By Mouth (1997)","Genres":["Documentary"]}
+{"ID":910,"Title":"Twilight (1998)","Genres":["Comedy","Documentary"]}
+{"ID":911,"Title":"U.S. Marshalls (1998)","Genres":["Sci-Fi"]}
+{"ID":912,"Title":"Love and Death on Long Island (1997)","Genres":["Children's"]}
+{"ID":913,"Title":"Wild Things (1998)","Genres":["Comedy","Documentary","Musical","Sci-Fi"]}
+{"ID":914,"Title":"Primary Colors (1998)","Genres":["Documentary"]}
+{"ID":915,"Title":"Lost in Space (1998)","Genres":["Romance","Sci-Fi"]}
+{"ID":916,"Title":"Mercury Rising (1998)","Genres":["Documentary","Sci-Fi"]}
+{"ID":917,"Title":"City of Angels (1998)","Genres":["Mystery"]}
+{"ID":918,"Title":"City of Lost Children, The (1995)","Genres":["Action","Romance"]}
+{"ID":919,"Title":"Two Bits (1995)","Genres":["Documentary"]}
+{"ID":920,"Title":"Farewell My Concubine (1993)","Genres":["Documentary","Mystery"]}
+{"ID":921,"Title":"Dead Man (1995)","Genres":["War"]}
+{"ID":922,"Title":"Raise the Red Lantern (1991)","Genres":["Documentary"]}
+{"ID":923,"Title":"White Squall (1996)","Genres":["Action","Documentary"]}
+{"ID":924,"Title":"Unforgettable (1996)","Genres":["Romance","Sci-Fi"]}
+{"ID":925,"Title":"Down Periscope (1996)","Genres":["Children's"]}
+{"ID":926,"Title":"Flower of My Secret, The (Flor de mi secreto, La) (1995)","Genres":["Documentary"]}
+{"ID":927,"Title":"Craft, The (1996)","Genres":["Documentary","Film-Noir"]}
+{"ID":928,"Title":"Harriet the Spy (1996)","Genres":["Animation","Children's"]}
+{"ID":929,"Title":"Chain Reaction (1996)","Genres":["Action","Sci-Fi"]}
+{"ID":930,"Title":"Island of Dr. Moreau, The (1996)","Genres":["Romance","Sci-Fi"]}
+{"ID":931,"Title":"First Kid (1996)","Genres":["Animation","Children's"]}
+{"ID":932,"Title":"Funeral, The (1996)","Genres":["Documentary"]}
+{"ID":933,"Title":"Preacher's Wife, The (1996)","Genres":["Documentary"]}
+{"ID":934,"Title":"Paradise Road (1997)","Genres":["Documentary","Thriller"]}
+{"ID":935,"Title":"Brassed Off (1996)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":936,"Title":"Thousand Acres, A (1997)","Genres":["Documentary"]}
+{"ID":937,"Title":"Smile Like Yours, A (1997)","Genres":["Children's","Mystery"]}
+{"ID":938,"Title":"Murder in the First (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":939,"Title":"Airheads (1994)","Genres":["Children's"]}
+{"ID":940,"Title":"With Honors (1994)","Genres":["Children's","Documentary"]}
+{"ID":941,"Title":"What's Love Got to Do with It (1993)","Genres":["Documentary"]}
+{"ID":942,"Title":"Killing Zoe (1994)","Genres":["Sci-Fi"]}
+{"ID":943,"Title":"Renaissance Man (1994)","Genres":["Children's","Documentary","Thriller"]}
+{"ID":944,"Title":"Charade (1963)","Genres":["Children's","Musical","Mystery","Sci-Fi"]}
+{"ID":945,"Title":"Fox and the Hound, The (1981)","Genres":["Adventure","Animation"]}
+{"ID":946,"Title":"Big Blue, The (Grand bleu, Le) (1988)","Genres":["Action","Mystery"]}
+{"ID":947,"Title":"Booty Call (1997)","Genres":["Children's","Mystery"]}
+{"ID":948,"Title":"How to Make an American Quilt (1995)","Genres":["Documentary","Mystery"]}
+{"ID":949,"Title":"Georgia (1995)","Genres":["Documentary"]}
+{"ID":950,"Title":"Indian in the Cupboard, The (1995)","Genres":["Action","Animation","Drama"]}
+{"ID":951,"Title":"Blue in the Face (1995)","Genres":["Children's"]}
+{"ID":952,"Title":"Unstrung Heroes (1995)","Genres":["Children's","Documentary"]}
+{"ID":953,"Title":"Unzipped (1995)","Genres":["Crime"]}
+{"ID":954,"Title":"Before Sunrise (1995)","Genres":["Documentary","Mystery"]}
+{"ID":955,"Title":"Nobody's Fool (1994)","Genres":["Documentary"]}
+{"ID":956,"Title":"Pushing Hands (1992)","Genres":["Children's"]}
+{"ID":957,"Title":"To Live (Huozhe) (1994)","Genres":["Documentary"]}
+{"ID":958,"Title":"Dazed and Confused (1993)","Genres":["Children's"]}
+{"ID":959,"Title":"Naked (1993)","Genres":["Documentary"]}
+{"ID":960,"Title":"Orlando (1993)","Genres":["Documentary"]}
+{"ID":961,"Title":"Ruby in Paradise (1993)","Genres":["Documentary"]}
+{"ID":962,"Title":"Some Folks Call It a Sling Blade (1993)","Genres":["Documentary","Sci-Fi"]}
+{"ID":963,"Title":"Month by the Lake, A (1995)","Genres":["Children's","Documentary"]}
+{"ID":964,"Title":"Funny Face (1957)","Genres":["Children's","Horror"]}
+{"ID":965,"Title":"Affair to Remember, An (1957)","Genres":["Mystery"]}
+{"ID":966,"Title":"Little Lord Fauntleroy (1936)","Genres":["Documentary"]}
+{"ID":967,"Title":"Inspector General, The (1949)","Genres":["Horror"]}
+{"ID":968,"Title":"Winnie the Pooh and the Blustery Day (1968)","Genres":["Adventure","Animation"]}
+{"ID":969,"Title":"Hear My Song (1991)","Genres":["Children's"]}
+{"ID":970,"Title":"Mediterraneo (1991)","Genres":["Children's","Thriller"]}
+{"ID":971,"Title":"Passion Fish (1992)","Genres":["Documentary"]}
+{"ID":972,"Title":"Grateful Dead (1995)","Genres":["Crime"]}
+{"ID":973,"Title":"Eye for an Eye (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":974,"Title":"Fear (1996)","Genres":["Sci-Fi"]}
+{"ID":975,"Title":"Solo (1996)","Genres":["Romance","Sci-Fi"]}
+{"ID":976,"Title":"Substitute, The (1996)","Genres":[]}
+{"ID":977,"Title":"Heaven's Prisoners (1996)","Genres":["Musical","Sci-Fi"]}
+{"ID":978,"Title":"Trigger Effect, The (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":979,"Title":"Mother Night (1996)","Genres":["Documentary"]}
+{"ID":980,"Title":"Dangerous Ground (1997)","Genres":["Documentary"]}
+{"ID":981,"Title":"Maximum Risk (1996)","Genres":["Action","Sci-Fi"]}
+{"ID":982,"Title":"Rich Man's Wife, The (1996)","Genres":["Sci-Fi"]}
+{"ID":983,"Title":"Shadow Conspiracy (1997)","Genres":["Sci-Fi"]}
+{"ID":984,"Title":"Blood & Wine (1997)","Genres":["Documentary"]}
+{"ID":985,"Title":"Turbulence (1997)","Genres":["Sci-Fi"]}
+{"ID":986,"Title":"Underworld (1997)","Genres":["Sci-Fi"]}
+{"ID":987,"Title":"Beautician and the Beast, The (1997)","Genres":["Children's","Mystery"]}
+{"ID":988,"Title":"Cats Don't Dance (1997)","Genres":["Adventure","Animation","Horror"]}
+{"ID":989,"Title":"Anna Karenina (1997)","Genres":["Documentary","Mystery"]}
+{"ID":990,"Title":"Keys to Tulsa (1997)","Genres":["Comedy"]}
+{"ID":991,"Title":"Head Above Water (1996)","Genres":["Children's","Sci-Fi"]}
+{"ID":992,"Title":"Hercules (1997)","Genres":["Action","Adventure","Animation","Children's","Horror"]}
+{"ID":993,"Title":"Last Time I Committed Suicide, The (1997)","Genres":["Documentary"]}
+{"ID":994,"Title":"Kiss Me, Guido (1997)","Genres":["Children's"]}
+{"ID":995,"Title":"Big Green, The (1995)","Genres":["Animation","Children's"]}
+{"ID":996,"Title":"Stuart Saves His Family (1995)","Genres":["Children's"]}
+{"ID":997,"Title":"Cabin Boy (1994)","Genres":["Children's"]}
+{"ID":998,"Title":"Clean Slate (1994)","Genres":["Children's"]}
+{"ID":999,"Title":"Lightning Jack (1994)","Genres":["Children's","War"]}
+{"ID":1000,"Title":"Stupids, The (1996)","Genres":["Children's"]}
+{"ID":1001,"Title":"Pest, The (1997)","Genres":["Children's"]}
+{"ID":1002,"Title":"That Darn Cat! (1997)","Genres":["Animation","Children's","Musical"]}
+{"ID":1003,"Title":"Geronimo: An American Legend (1993)","Genres":["Documentary","War"]}
+{"ID":1004,"Title":"Double vie de V�ronique, La (Double Life of Veronique, The) (1991)","Genres":["Documentary"]}
+{"ID":1005,"Title":"Until the End of the World (Bis ans Ende der Welt) (1991)","Genres":["Documentary","Romance"]}
+{"ID":1006,"Title":"Waiting for Guffman (1996)","Genres":["Children's"]}
+{"ID":1007,"Title":"I Shot Andy Warhol (1996)","Genres":["Documentary"]}
+{"ID":1008,"Title":"Stealing Beauty (1996)","Genres":["Documentary"]}
+{"ID":1009,"Title":"Basquiat (1996)","Genres":["Documentary"]}
+{"ID":1010,"Title":"2 Days in the Valley (1996)","Genres":["Comedy"]}
+{"ID":1011,"Title":"Private Parts (1997)","Genres":["Children's","Documentary"]}
+{"ID":1012,"Title":"Anaconda (1997)","Genres":["Action","Sci-Fi"]}
+{"ID":1013,"Title":"Romy and Michele's High School Reunion (1997)","Genres":["Children's"]}
+{"ID":1014,"Title":"Shiloh (1997)","Genres":["Animation","Documentary"]}
+{"ID":1015,"Title":"Con Air (1997)","Genres":["Action","Sci-Fi"]}
+{"ID":1016,"Title":"Trees Lounge (1996)","Genres":["Documentary"]}
+{"ID":1017,"Title":"Tie Me Up! Tie Me Down! (1990)","Genres":["Documentary"]}
+{"ID":1018,"Title":"Die xue shuang xiong (Killer, The) (1989)","Genres":["Sci-Fi"]}
+{"ID":1019,"Title":"Gaslight (1944)","Genres":["Musical","Sci-Fi"]}
+{"ID":1020,"Title":"8 1/2 (1963)","Genres":["Documentary"]}
+{"ID":1021,"Title":"Fast, Cheap & Out of Control (1997)","Genres":["Crime"]}
+{"ID":1022,"Title":"Fathers' Day (1997)","Genres":["Children's"]}
+{"ID":1023,"Title":"Mrs. Dalloway (1997)","Genres":["Mystery"]}
+{"ID":1024,"Title":"Fire Down Below (1997)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1025,"Title":"Lay of the Land, The (1997)","Genres":["Children's","Documentary"]}
+{"ID":1026,"Title":"Shooter, The (1995)","Genres":[]}
+{"ID":1027,"Title":"Grumpier Old Men (1995)","Genres":["Children's","Mystery"]}
+{"ID":1028,"Title":"Jury Duty (1995)","Genres":["Children's"]}
+{"ID":1029,"Title":"Beverly Hillbillies, The (1993)","Genres":["Children's"]}
+{"ID":1030,"Title":"Lassie (1994)","Genres":["Action","Animation"]}
+{"ID":1031,"Title":"Little Big League (1994)","Genres":["Animation","Children's"]}
+{"ID":1032,"Title":"Homeward Bound II: Lost in San Francisco (1996)","Genres":["Action","Animation"]}
+{"ID":1033,"Title":"Quest, The (1996)","Genres":["Action"]}
+{"ID":1034,"Title":"Cool Runnings (1993)","Genres":["Children's"]}
+{"ID":1035,"Title":"Drop Dead Fred (1991)","Genres":["Children's","Drama"]}
+{"ID":1036,"Title":"Grease 2 (1982)","Genres":["Children's","Horror","Mystery"]}
+{"ID":1037,"Title":"Switchback (1997)","Genres":["Sci-Fi"]}
+{"ID":1038,"Title":"Hamlet (1996)","Genres":["Documentary"]}
+{"ID":1039,"Title":"Two if by Sea (1996)","Genres":["Children's","Mystery"]}
+{"ID":1040,"Title":"Forget Paris (1995)","Genres":["Children's","Mystery"]}
+{"ID":1041,"Title":"Just Cause (1995)","Genres":["Musical","Sci-Fi"]}
+{"ID":1042,"Title":"Rent-a-Kid (1995)","Genres":["Children's"]}
+{"ID":1043,"Title":"Paper, The (1994)","Genres":["Children's","Documentary"]}
+{"ID":1044,"Title":"Fearless (1993)","Genres":["Documentary"]}
+{"ID":1045,"Title":"Malice (1993)","Genres":["Sci-Fi"]}
+{"ID":1046,"Title":"Multiplicity (1996)","Genres":["Children's"]}
+{"ID":1047,"Title":"She's the One (1996)","Genres":["Children's","Mystery"]}
+{"ID":1048,"Title":"House Arrest (1996)","Genres":["Children's"]}
+{"ID":1049,"Title":"Ghost and Mrs. Muir, The (1947)","Genres":["Documentary","Mystery"]}
+{"ID":1050,"Title":"Associate, The (1996)","Genres":["Children's"]}
+{"ID":1051,"Title":"Dracula: Dead and Loving It (1995)","Genres":["Children's","Film-Noir"]}
+{"ID":1052,"Title":"Now and Then (1995)","Genres":["Documentary"]}
+{"ID":1053,"Title":"Mr. Wrong (1996)","Genres":["Children's"]}
+{"ID":1054,"Title":"Simple Twist of Fate, A (1994)","Genres":["Documentary"]}
+{"ID":1055,"Title":"Cronos (1992)","Genres":["Film-Noir"]}
+{"ID":1056,"Title":"Pallbearer, The (1996)","Genres":["Children's"]}
+{"ID":1057,"Title":"War, The (1994)","Genres":["Action","Documentary"]}
+{"ID":1058,"Title":"Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)","Genres":["Children's"]}
+{"ID":1059,"Title":"Adventures of Pinocchio, The (1996)","Genres":["Action","Animation"]}
+{"ID":1060,"Title":"Evening Star, The (1996)","Genres":["Children's","Documentary"]}
+{"ID":1061,"Title":"Four Days in September (1997)","Genres":["Documentary"]}
+{"ID":1062,"Title":"Little Princess, A (1995)","Genres":["Animation","Documentary"]}
+{"ID":1063,"Title":"Crossfire (1947)","Genres":["Comedy","Fantasy"]}
+{"ID":1064,"Title":"Koyaanisqatsi (1983)","Genres":["Crime","Thriller"]}
+{"ID":1065,"Title":"Balto (1995)","Genres":["Adventure","Animation"]}
+{"ID":1066,"Title":"Bottle Rocket (1996)","Genres":["Children's"]}
+{"ID":1067,"Title":"Star Maker, The (Uomo delle stelle, L') (1995)","Genres":["Documentary"]}
+{"ID":1068,"Title":"Amateur (1994)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":1069,"Title":"Living in Oblivion (1995)","Genres":["Children's"]}
+{"ID":1070,"Title":"Party Girl (1995)","Genres":["Children's"]}
+{"ID":1071,"Title":"Pyromaniac's Love Story, A (1995)","Genres":["Children's","Mystery"]}
+{"ID":1072,"Title":"Shallow Grave (1994)","Genres":["Sci-Fi"]}
+{"ID":1073,"Title":"Reality Bites (1994)","Genres":["Children's","Documentary"]}
+{"ID":1074,"Title":"Man of No Importance, A (1994)","Genres":["Documentary"]}
+{"ID":1075,"Title":"Pagemaster, The (1994)","Genres":["Action","Adventure","Animation","Drama"]}
+{"ID":1076,"Title":"Love and a .45 (1994)","Genres":["Sci-Fi"]}
+{"ID":1077,"Title":"Oliver & Company (1988)","Genres":["Adventure","Animation"]}
+{"ID":1078,"Title":"Joe's Apartment (1996)","Genres":["Children's","Horror"]}
+{"ID":1079,"Title":"Celestial Clockwork (1994)","Genres":["Children's"]}
+{"ID":1080,"Title":"Curdled (1996)","Genres":["Comedy"]}
+{"ID":1081,"Title":"Female Perversions (1996)","Genres":["Documentary"]}
+{"ID":1082,"Title":"Albino Alligator (1996)","Genres":["Comedy","Sci-Fi"]}
+{"ID":1083,"Title":"Anne Frank Remembered (1995)","Genres":["Crime"]}
+{"ID":1084,"Title":"Carried Away (1996)","Genres":["Documentary","Mystery"]}
+{"ID":1085,"Title":"It's My Party (1995)","Genres":["Documentary"]}
+{"ID":1086,"Title":"Bloodsport 2 (1995)","Genres":[]}
+{"ID":1087,"Title":"Double Team (1997)","Genres":[]}
+{"ID":1088,"Title":"Speed 2: Cruise Control (1997)","Genres":["Mystery","Sci-Fi"]}
+{"ID":1089,"Title":"Sliver (1993)","Genres":["Sci-Fi"]}
+{"ID":1090,"Title":"Pete's Dragon (1977)","Genres":["Action","Adventure","Animation","Horror"]}
+{"ID":1091,"Title":"Dear God (1996)","Genres":["Children's"]}
+{"ID":1092,"Title":"Live Nude Girls (1995)","Genres":["Children's"]}
+{"ID":1093,"Title":"Thin Line Between Love and Hate, A (1996)","Genres":["Children's"]}
+{"ID":1094,"Title":"High School High (1996)","Genres":["Children's"]}
+{"ID":1095,"Title":"Commandments (1997)","Genres":["Mystery"]}
+{"ID":1096,"Title":"Hate (Haine, La) (1995)","Genres":["Documentary"]}
+{"ID":1097,"Title":"Flirting With Disaster (1996)","Genres":["Children's"]}
+{"ID":1098,"Title":"Red Firecracker, Green Firecracker (1994)","Genres":["Documentary"]}
+{"ID":1099,"Title":"What Happened Was... (1994)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":1100,"Title":"Six Degrees of Separation (1993)","Genres":["Documentary","Musical"]}
+{"ID":1101,"Title":"Two Much (1996)","Genres":["Children's","Mystery"]}
+{"ID":1102,"Title":"Trust (1990)","Genres":["Children's","Documentary"]}
+{"ID":1103,"Title":"C'est arriv� pr�s de chez vous (1992)","Genres":["Children's","Comedy","Documentary"]}
+{"ID":1104,"Title":"Firestorm (1998)","Genres":["Action","Sci-Fi"]}
+{"ID":1105,"Title":"Newton Boys, The (1998)","Genres":["Comedy","Documentary"]}
+{"ID":1106,"Title":"Beyond Rangoon (1995)","Genres":["Documentary"]}
+{"ID":1107,"Title":"Feast of July (1995)","Genres":["Documentary"]}
+{"ID":1108,"Title":"Death and the Maiden (1994)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1109,"Title":"Tank Girl (1995)","Genres":["Children's","Horror","Romance"]}
+{"ID":1110,"Title":"Double Happiness (1994)","Genres":["Documentary"]}
+{"ID":1111,"Title":"Cobb (1994)","Genres":["Documentary"]}
+{"ID":1112,"Title":"Mrs. Parker and the Vicious Circle (1994)","Genres":["Documentary"]}
+{"ID":1113,"Title":"Faithful (1996)","Genres":["Children's"]}
+{"ID":1114,"Title":"Twelfth Night (1996)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":1115,"Title":"Mark of Zorro, The (1940)","Genres":["Action"]}
+{"ID":1116,"Title":"Surviving Picasso (1996)","Genres":["Documentary"]}
+{"ID":1117,"Title":"Up in Smoke (1978)","Genres":["Children's"]}
+{"ID":1118,"Title":"Some Kind of Wonderful (1987)","Genres":["Documentary","Mystery"]}
+{"ID":1119,"Title":"I'm Not Rappaport (1996)","Genres":["Children's"]}
+{"ID":1120,"Title":"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)","Genres":["Documentary","Horror"]}
+{"ID":1121,"Title":"They Made Me a Criminal (1939)","Genres":["Comedy","Documentary"]}
+{"ID":1122,"Title":"Last Time I Saw Paris, The (1954)","Genres":["Documentary"]}
+{"ID":1123,"Title":"Farewell to Arms, A (1932)","Genres":["Mystery","Thriller"]}
+{"ID":1124,"Title":"Innocents, The (1961)","Genres":["Sci-Fi"]}
+{"ID":1125,"Title":"Old Man and the Sea, The (1958)","Genres":["Action","Documentary"]}
+{"ID":1126,"Title":"Truman Show, The (1998)","Genres":["Documentary"]}
+{"ID":1127,"Title":"Heidi Fleiss: Hollywood Madam (1995) ","Genres":["Crime"]}
+{"ID":1128,"Title":"Chungking Express (1994)","Genres":["Documentary","Musical","Mystery"]}
+{"ID":1129,"Title":"Jupiter's Wife (1994)","Genres":["Crime"]}
+{"ID":1130,"Title":"Safe (1995)","Genres":["Sci-Fi"]}
+{"ID":1131,"Title":"Feeling Minnesota (1996)","Genres":["Documentary","Mystery"]}
+{"ID":1132,"Title":"Escape to Witch Mountain (1975)","Genres":["Action","Animation","Drama"]}
+{"ID":1133,"Title":"Get on the Bus (1996)","Genres":["Documentary"]}
+{"ID":1134,"Title":"Doors, The (1991)","Genres":["Documentary","Horror"]}
+{"ID":1135,"Title":"Ghosts of Mississippi (1996)","Genres":["Documentary"]}
+{"ID":1136,"Title":"Beautiful Thing (1996)","Genres":["Documentary","Mystery"]}
+{"ID":1137,"Title":"Best Men (1997)","Genres":["Children's","Comedy","Documentary"]}
+{"ID":1138,"Title":"Hackers (1995)","Genres":["Comedy","Sci-Fi"]}
+{"ID":1139,"Title":"Road to Wellville, The (1994)","Genres":["Children's"]}
+{"ID":1140,"Title":"War Room, The (1993)","Genres":["Crime"]}
+{"ID":1141,"Title":"When We Were Kings (1996)","Genres":["Crime"]}
+{"ID":1142,"Title":"Hard Eight (1996)","Genres":["Comedy","Sci-Fi"]}
+{"ID":1143,"Title":"Quiet Room, The (1996)","Genres":["Documentary"]}
+{"ID":1144,"Title":"Blue Chips (1994)","Genres":["Documentary"]}
+{"ID":1145,"Title":"Calendar Girl (1993)","Genres":["Documentary"]}
+{"ID":1146,"Title":"My Family (1995)","Genres":["Documentary"]}
+{"ID":1147,"Title":"Tom & Viv (1994)","Genres":["Documentary"]}
+{"ID":1148,"Title":"Walkabout (1971)","Genres":["Documentary"]}
+{"ID":1149,"Title":"Last Dance (1996)","Genres":["Documentary"]}
+{"ID":1150,"Title":"Original Gangstas (1996)","Genres":["Comedy"]}
+{"ID":1151,"Title":"In Love and War (1996)","Genres":["Mystery","Thriller"]}
+{"ID":1152,"Title":"Backbeat (1993)","Genres":["Documentary","Horror"]}
+{"ID":1153,"Title":"Alphaville (1965)","Genres":["Romance"]}
+{"ID":1154,"Title":"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)","Genres":["Children's","Mystery"]}
+{"ID":1155,"Title":"Cyclo (1995)","Genres":["Comedy","Documentary"]}
+{"ID":1156,"Title":"Relic, The (1997)","Genres":["Film-Noir"]}
+{"ID":1157,"Title":"Fille seule, La (A Single Girl) (1995)","Genres":["Documentary"]}
+{"ID":1158,"Title":"Stalker (1979)","Genres":["Musical","Romance"]}
+{"ID":1159,"Title":"Love! Valour! Compassion! (1997)","Genres":["Documentary","Mystery"]}
+{"ID":1160,"Title":"Palookaville (1996)","Genres":["Documentary"]}
+{"ID":1161,"Title":"Phat Beach (1996)","Genres":["Children's"]}
+{"ID":1162,"Title":"Portrait of a Lady, The (1996)","Genres":["Documentary"]}
+{"ID":1163,"Title":"Zeus and Roxanne (1997)","Genres":["Animation"]}
+{"ID":1164,"Title":"Big Bully (1996)","Genres":["Children's","Documentary"]}
+{"ID":1165,"Title":"Love & Human Remains (1993)","Genres":["Children's"]}
+{"ID":1166,"Title":"Sum of Us, The (1994)","Genres":["Children's"]}
+{"ID":1167,"Title":"Little Buddha (1993)","Genres":["Documentary"]}
+{"ID":1168,"Title":"Fresh (1994)","Genres":["Documentary"]}
+{"ID":1169,"Title":"Spanking the Monkey (1994)","Genres":["Children's","Documentary"]}
+{"ID":1170,"Title":"Wild Reeds (1994)","Genres":["Documentary"]}
+{"ID":1171,"Title":"Women, The (1939)","Genres":["Children's"]}
+{"ID":1172,"Title":"Bliss (1997)","Genres":["Documentary","Mystery"]}
+{"ID":1173,"Title":"Caught (1996)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1174,"Title":"Hugo Pool (1997)","Genres":["Mystery"]}
+{"ID":1175,"Title":"Welcome To Sarajevo (1997)","Genres":["Documentary","Thriller"]}
+{"ID":1176,"Title":"Dunston Checks In (1996)","Genres":["Children's"]}
+{"ID":1177,"Title":"Major Payne (1994)","Genres":["Children's"]}
+{"ID":1178,"Title":"Man of the House (1995)","Genres":["Children's"]}
+{"ID":1179,"Title":"I Love Trouble (1994)","Genres":["Children's"]}
+{"ID":1180,"Title":"Low Down Dirty Shame, A (1994)","Genres":["Children's"]}
+{"ID":1181,"Title":"Cops and Robbersons (1994)","Genres":["Children's"]}
+{"ID":1182,"Title":"Cowboy Way, The (1994)","Genres":["Children's"]}
+{"ID":1183,"Title":"Endless Summer 2, The (1994)","Genres":["Crime"]}
+{"ID":1184,"Title":"In the Army Now (1994)","Genres":["Children's","Thriller"]}
+{"ID":1185,"Title":"Inkwell, The (1994)","Genres":["Children's","Documentary"]}
+{"ID":1186,"Title":"Switchblade Sisters (1975)","Genres":["Comedy"]}
+{"ID":1187,"Title":"Young Guns II (1990)","Genres":["Children's","War"]}
+{"ID":1188,"Title":"Prefontaine (1997)","Genres":["Documentary"]}
+{"ID":1189,"Title":"That Old Feeling (1997)","Genres":["Children's","Mystery"]}
+{"ID":1190,"Title":"Letter From Death Row, A (1998)","Genres":["Comedy","Documentary"]}
+{"ID":1191,"Title":"Boys of St. Vincent, The (1993)","Genres":["Documentary"]}
+{"ID":1192,"Title":"Before the Rain (Pred dozhdot) (1994)","Genres":["Documentary"]}
+{"ID":1193,"Title":"Once Were Warriors (1994)","Genres":["Comedy","Documentary"]}
+{"ID":1194,"Title":"Strawberry and Chocolate (Fresa y chocolate) (1993)","Genres":["Documentary"]}
+{"ID":1195,"Title":"Savage Nights (Nuits fauves, Les) (1992)","Genres":["Documentary"]}
+{"ID":1196,"Title":"Family Thing, A (1996)","Genres":["Children's","Documentary"]}
+{"ID":1197,"Title":"Purple Noon (1960)","Genres":["Comedy","Sci-Fi"]}
+{"ID":1198,"Title":"Cemetery Man (Dellamorte Dellamore) (1994)","Genres":["Children's","Film-Noir"]}
+{"ID":1199,"Title":"Kim (1950)","Genres":["Animation","Documentary"]}
+{"ID":1200,"Title":"Marlene Dietrich: Shadow and Light (1996) ","Genres":["Crime"]}
+{"ID":1201,"Title":"Maybe, Maybe Not (Bewegte Mann, Der) (1994)","Genres":["Children's"]}
+{"ID":1202,"Title":"Top Hat (1935)","Genres":["Children's","Horror","Mystery"]}
+{"ID":1203,"Title":"To Be or Not to Be (1942)","Genres":["Children's","Documentary","Thriller"]}
+{"ID":1204,"Title":"Secret Agent, The (1996)","Genres":["Documentary"]}
+{"ID":1205,"Title":"Amos & Andrew (1993)","Genres":["Children's"]}
+{"ID":1206,"Title":"Jade (1995)","Genres":["Sci-Fi"]}
+{"ID":1207,"Title":"Kiss of Death (1995)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":1208,"Title":"Mixed Nuts (1994)","Genres":["Children's"]}
+{"ID":1209,"Title":"Virtuosity (1995)","Genres":["Romance","Sci-Fi"]}
+{"ID":1210,"Title":"Blue Sky (1994)","Genres":["Documentary","Mystery"]}
+{"ID":1211,"Title":"Flesh and Bone (1993)","Genres":["Documentary","Musical","Mystery"]}
+{"ID":1212,"Title":"Guilty as Sin (1993)","Genres":["Comedy","Documentary","Sci-Fi"]}
+{"ID":1213,"Title":"In the Realm of the Senses (Ai no corrida) (1976)","Genres":["Documentary"]}
+{"ID":1214,"Title":"Barb Wire (1996)","Genres":["Romance"]}
+{"ID":1215,"Title":"Kissed (1996)","Genres":["Mystery"]}
+{"ID":1216,"Title":"Assassins (1995)","Genres":["Sci-Fi"]}
+{"ID":1217,"Title":"Friday (1995)","Genres":["Children's"]}
+{"ID":1218,"Title":"Goofy Movie, A (1995)","Genres":["Adventure","Animation","Children's","Mystery"]}
+{"ID":1219,"Title":"Higher Learning (1995)","Genres":["Documentary"]}
+{"ID":1220,"Title":"When a Man Loves a Woman (1994)","Genres":["Documentary"]}
+{"ID":1221,"Title":"Judgment Night (1993)","Genres":[]}
+{"ID":1222,"Title":"King of the Hill (1993)","Genres":["Documentary"]}
+{"ID":1223,"Title":"Scout, The (1994)","Genres":["Documentary"]}
+{"ID":1224,"Title":"Angus (1995)","Genres":["Children's"]}
+{"ID":1225,"Title":"Night Falls on Manhattan (1997)","Genres":["Comedy","Documentary"]}
+{"ID":1226,"Title":"Awfully Big Adventure, An (1995)","Genres":["Documentary"]}
+{"ID":1227,"Title":"Under Siege 2: Dark Territory (1995)","Genres":[]}
+{"ID":1228,"Title":"Poison Ivy II (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1229,"Title":"Ready to Wear (Pret-A-Porter) (1994)","Genres":["Children's"]}
+{"ID":1230,"Title":"Marked for Death (1990)","Genres":["Documentary"]}
+{"ID":1231,"Title":"Madonna: Truth or Dare (1991)","Genres":["Crime"]}
+{"ID":1232,"Title":"N�nette et Boni (1996)","Genres":["Documentary"]}
+{"ID":1233,"Title":"Chairman of the Board (1998)","Genres":["Children's"]}
+{"ID":1234,"Title":"Big Bang Theory, The (1994)","Genres":["Comedy"]}
+{"ID":1235,"Title":"Other Voices, Other Rooms (1997)","Genres":["Documentary"]}
+{"ID":1236,"Title":"Twisted (1996)","Genres":["Children's","Documentary"]}
+{"ID":1237,"Title":"Full Speed (1996)","Genres":["Documentary"]}
+{"ID":1238,"Title":"Cutthroat Island (1995)","Genres":["Action","Mystery"]}
+{"ID":1239,"Title":"Ghost in the Shell (Kokaku kidotai) (1995)","Genres":["Adventure","Romance"]}
+{"ID":1240,"Title":"Van, The (1996)","Genres":["Children's","Documentary"]}
+{"ID":1241,"Title":"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)","Genres":["Children's"]}
+{"ID":1242,"Title":"Night Flier (1997)","Genres":["Film-Noir"]}
+{"ID":1243,"Title":"Metro (1997)","Genres":[]}
+{"ID":1244,"Title":"Gridlock'd (1997)","Genres":["Comedy"]}
+{"ID":1245,"Title":"Bushwhacked (1995)","Genres":["Children's"]}
+{"ID":1246,"Title":"Bad Girls (1994)","Genres":["War"]}
+{"ID":1247,"Title":"Blink (1994)","Genres":["Sci-Fi"]}
+{"ID":1248,"Title":"For Love or Money (1993)","Genres":["Children's"]}
+{"ID":1249,"Title":"Best of the Best 3: No Turning Back (1995)","Genres":[]}
+{"ID":1250,"Title":"A Chef in Love (1996)","Genres":["Children's"]}
+{"ID":1251,"Title":"Contempt (M�pris, Le) (1963)","Genres":["Documentary"]}
+{"ID":1252,"Title":"Tie That Binds, The (1995)","Genres":["Sci-Fi"]}
+{"ID":1253,"Title":"Gone Fishin' (1997)","Genres":["Children's"]}
+{"ID":1254,"Title":"Broken English (1996)","Genres":["Documentary"]}
+{"ID":1255,"Title":"Designated Mourner, The (1997)","Genres":["Documentary"]}
+{"ID":1256,"Title":"Designated Mourner, The (1997)","Genres":["Documentary"]}
+{"ID":1257,"Title":"Trial and Error (1997)","Genres":["Children's","Mystery"]}
+{"ID":1258,"Title":"Pie in the Sky (1995)","Genres":["Children's","Mystery"]}
+{"ID":1259,"Title":"Total Eclipse (1995)","Genres":["Documentary"]}
+{"ID":1260,"Title":"Run of the Country, The (1995)","Genres":["Documentary"]}
+{"ID":1261,"Title":"Walking and Talking (1996)","Genres":["Mystery"]}
+{"ID":1262,"Title":"Foxfire (1996)","Genres":["Documentary"]}
+{"ID":1263,"Title":"Nothing to Lose (1994)","Genres":["Documentary"]}
+{"ID":1264,"Title":"Star Maps (1997)","Genres":["Documentary"]}
+{"ID":1265,"Title":"Bread and Chocolate (Pane e cioccolata) (1973)","Genres":["Documentary"]}
+{"ID":1266,"Title":"Clockers (1995)","Genres":["Documentary"]}
+{"ID":1267,"Title":"Bitter Moon (1992)","Genres":["Documentary"]}
+{"ID":1268,"Title":"Love in the Afternoon (1957)","Genres":["Children's","Mystery"]}
+{"ID":1269,"Title":"Life with Mikey (1993)","Genres":["Children's"]}
+{"ID":1270,"Title":"North (1994)","Genres":["Children's"]}
+{"ID":1271,"Title":"Talking About Sex (1994)","Genres":["Children's","Documentary"]}
+{"ID":1272,"Title":"Color of Night (1994)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1273,"Title":"Robocop 3 (1993)","Genres":["Romance","Sci-Fi"]}
+{"ID":1274,"Title":"Killer (Bulletproof Heart) (1994)","Genres":["Sci-Fi"]}
+{"ID":1275,"Title":"Sunset Park (1996)","Genres":["Documentary"]}
+{"ID":1276,"Title":"Set It Off (1996)","Genres":["Comedy"]}
+{"ID":1277,"Title":"Selena (1997)","Genres":["Documentary","Horror"]}
+{"ID":1278,"Title":"Wild America (1997)","Genres":["Action","Animation"]}
+{"ID":1279,"Title":"Gang Related (1997)","Genres":["Comedy"]}
+{"ID":1280,"Title":"Manny & Lo (1996)","Genres":["Documentary"]}
+{"ID":1281,"Title":"Grass Harp, The (1995)","Genres":["Documentary"]}
+{"ID":1282,"Title":"Out to Sea (1997)","Genres":["Children's"]}
+{"ID":1283,"Title":"Before and After (1996)","Genres":["Documentary","Musical"]}
+{"ID":1284,"Title":"Princess Caraboo (1994)","Genres":["Documentary"]}
+{"ID":1285,"Title":"Shall We Dance? (1937)","Genres":["Children's","Horror","Mystery"]}
+{"ID":1286,"Title":"Ed (1996)","Genres":["Children's"]}
+{"ID":1287,"Title":"Denise Calls Up (1995)","Genres":["Children's"]}
+{"ID":1288,"Title":"Jack and Sarah (1995)","Genres":["Mystery"]}
+{"ID":1289,"Title":"Country Life (1994)","Genres":["Documentary","Mystery"]}
+{"ID":1290,"Title":"Celtic Pride (1996)","Genres":["Children's"]}
+{"ID":1291,"Title":"Simple Wish, A (1997)","Genres":["Animation","Drama"]}
+{"ID":1292,"Title":"Star Kid (1997)","Genres":["Action","Animation","Drama","Romance"]}
+{"ID":1293,"Title":"Ayn Rand: A Sense of Life (1997)","Genres":["Crime"]}
+{"ID":1294,"Title":"Kicked in the Head (1997)","Genres":["Children's","Documentary"]}
+{"ID":1295,"Title":"Indian Summer (1996)","Genres":["Children's","Documentary"]}
+{"ID":1296,"Title":"Love Affair (1994)","Genres":["Documentary","Mystery"]}
+{"ID":1297,"Title":"Band Wagon, The (1953)","Genres":["Children's","Horror"]}
+{"ID":1298,"Title":"Penny Serenade (1941)","Genres":["Documentary","Mystery"]}
+{"ID":1299,"Title":"'Til There Was You (1997)","Genres":["Documentary","Mystery"]}
+{"ID":1300,"Title":"Stripes (1981)","Genres":["Children's"]}
+{"ID":1301,"Title":"Late Bloomers (1996)","Genres":["Children's"]}
+{"ID":1302,"Title":"Getaway, The (1994)","Genres":[]}
+{"ID":1303,"Title":"New York Cop (1996)","Genres":["Comedy"]}
+{"ID":1304,"Title":"National Lampoon's Senior Trip (1995)","Genres":["Children's"]}
+{"ID":1305,"Title":"Delta of Venus (1994)","Genres":["Documentary"]}
+{"ID":1306,"Title":"Carmen Miranda: Bananas Is My Business (1994)","Genres":["Crime"]}
+{"ID":1307,"Title":"Babyfever (1994)","Genres":["Children's","Documentary"]}
+{"ID":1308,"Title":"Very Natural Thing, A (1974)","Genres":["Documentary"]}
+{"ID":1309,"Title":"Walk in the Sun, A (1945)","Genres":["Documentary"]}
+{"ID":1310,"Title":"Waiting to Exhale (1995)","Genres":["Children's","Documentary"]}
+{"ID":1311,"Title":"Pompatus of Love, The (1996)","Genres":["Children's","Documentary"]}
+{"ID":1312,"Title":"Palmetto (1998)","Genres":["Fantasy","Musical","Sci-Fi"]}
+{"ID":1313,"Title":"Surviving the Game (1994)","Genres":["Action","Sci-Fi"]}
+{"ID":1314,"Title":"Inventing the Abbotts (1997)","Genres":["Documentary","Mystery"]}
+{"ID":1315,"Title":"Horse Whisperer, The (1998)","Genres":["Documentary"]}
+{"ID":1316,"Title":"Journey of August King, The (1995)","Genres":["Documentary"]}
+{"ID":1317,"Title":"Catwalk (1995)","Genres":["Crime"]}
+{"ID":1318,"Title":"Neon Bible, The (1995)","Genres":["Documentary"]}
+{"ID":1319,"Title":"Homage (1995)","Genres":["Documentary"]}
+{"ID":1320,"Title":"Open Season (1996)","Genres":["Children's"]}
+{"ID":1321,"Title":"Metisse (Caf� au Lait) (1993)","Genres":["Children's"]}
+{"ID":1322,"Title":"Wooden Man's Bride, The (Wu Kui) (1994)","Genres":["Documentary"]}
+{"ID":1323,"Title":"Loaded (1994)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1324,"Title":"August (1996)","Genres":["Documentary"]}
+{"ID":1325,"Title":"Boys (1996)","Genres":["Documentary"]}
+{"ID":1326,"Title":"Captives (1994)","Genres":["Documentary"]}
+{"ID":1327,"Title":"Of Love and Shadows (1994)","Genres":["Documentary"]}
+{"ID":1328,"Title":"Low Life, The (1994)","Genres":["Documentary"]}
+{"ID":1329,"Title":"An Unforgettable Summer (1994)","Genres":["Documentary"]}
+{"ID":1330,"Title":"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)","Genres":["Crime"]}
+{"ID":1331,"Title":"My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)","Genres":["Documentary"]}
+{"ID":1332,"Title":"Midnight Dancers (Sibak) (1994)","Genres":["Children's","Documentary"]}
+{"ID":1333,"Title":"Somebody to Love (1994)","Genres":["Documentary"]}
+{"ID":1334,"Title":"American Buffalo (1996)","Genres":["Documentary"]}
+{"ID":1335,"Title":"Kazaam (1996)","Genres":["Animation","Children's","Drama"]}
+{"ID":1336,"Title":"Larger Than Life (1996)","Genres":["Children's"]}
+{"ID":1337,"Title":"Two Deaths (1995)","Genres":["Documentary"]}
+{"ID":1338,"Title":"Stefano Quantestorie (1993)","Genres":["Children's","Documentary"]}
+{"ID":1339,"Title":"Crude Oasis, The (1995)","Genres":["Mystery"]}
+{"ID":1340,"Title":"Hedd Wyn (1992)","Genres":["Documentary"]}
+{"ID":1341,"Title":"Convent, The (Convento, O) (1995)","Genres":["Documentary"]}
+{"ID":1342,"Title":"Lotto Land (1995)","Genres":["Documentary"]}
+{"ID":1343,"Title":"Story of Xinghua, The (1993)","Genres":["Documentary"]}
+{"ID":1344,"Title":"Day the Sun Turned Cold, The (Tianguo niezi) (1994)","Genres":["Documentary"]}
+{"ID":1345,"Title":"Dingo (1992)","Genres":["Documentary"]}
+{"ID":1346,"Title":"Ballad of Narayama, The (Narayama Bushiko) (1958)","Genres":["Documentary"]}
+{"ID":1347,"Title":"Every Other Weekend (1990)","Genres":["Documentary"]}
+{"ID":1348,"Title":"Mille bolle blu (1993)","Genres":["Children's"]}
+{"ID":1349,"Title":"Crows and Sparrows (1949)","Genres":["Documentary"]}
+{"ID":1350,"Title":"Lover's Knot (1996)","Genres":["Children's"]}
+{"ID":1351,"Title":"Shadow of Angels (Schatten der Engel) (1976)","Genres":["Documentary"]}
+{"ID":1352,"Title":"1-900 (1994)","Genres":["Mystery"]}
+{"ID":1353,"Title":"Venice/Venice (1992)","Genres":["Documentary"]}
+{"ID":1354,"Title":"Infinity (1996)","Genres":["Documentary"]}
+{"ID":1355,"Title":"Ed's Next Move (1996)","Genres":["Children's"]}
+{"ID":1356,"Title":"For the Moment (1994)","Genres":["Mystery","Thriller"]}
+{"ID":1357,"Title":"The Deadly Cure (1996)","Genres":[]}
+{"ID":1358,"Title":"Boys in Venice (1996)","Genres":["Crime"]}
+{"ID":1359,"Title":"Sexual Life of the Belgians, The (1994)","Genres":["Children's"]}
+{"ID":1360,"Title":"Search for One-eye Jimmy, The (1996)","Genres":["Children's"]}
+{"ID":1361,"Title":"American Strays (1996)","Genres":[]}
+{"ID":1362,"Title":"Leopard Son, The (1996)","Genres":["Crime"]}
+{"ID":1363,"Title":"Bird of Prey (1996)","Genres":[]}
+{"ID":1364,"Title":"Johnny 100 Pesos (1993)","Genres":["Documentary"]}
+{"ID":1365,"Title":"JLG/JLG - autoportrait de d�cembre (1994)","Genres":["Crime","Documentary"]}
+{"ID":1366,"Title":"Faust (1994)","Genres":["Adventure"]}
+{"ID":1367,"Title":"Mina Tannenbaum (1994)","Genres":["Documentary"]}
+{"ID":1368,"Title":"Forbidden Christ, The (Cristo proibito, Il) (1950)","Genres":["Documentary"]}
+{"ID":1369,"Title":"I Can't Sleep (J'ai pas sommeil) (1994)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1370,"Title":"Machine, The (1994)","Genres":["Children's","Film-Noir"]}
+{"ID":1371,"Title":"Stranger, The (1994)","Genres":[]}
+{"ID":1372,"Title":"Good Morning (1971)","Genres":[]}
+{"ID":1373,"Title":"Falling in Love Again (1980)","Genres":["Children's"]}
+{"ID":1374,"Title":"Cement Garden, The (1993)","Genres":["Documentary"]}
+{"ID":1375,"Title":"Meet Wally Sparks (1997)","Genres":["Children's"]}
+{"ID":1376,"Title":"Hotel de Love (1996)","Genres":["Children's","Mystery"]}
+{"ID":1377,"Title":"Rhyme & Reason (1997)","Genres":["Crime"]}
+{"ID":1378,"Title":"Love and Other Catastrophes (1996)","Genres":["Mystery"]}
+{"ID":1379,"Title":"Hollow Reed (1996)","Genres":["Documentary"]}
+{"ID":1380,"Title":"Losing Chase (1996)","Genres":["Documentary"]}
+{"ID":1381,"Title":"Bonheur, Le (1965)","Genres":["Documentary"]}
+{"ID":1382,"Title":"Second Jungle Book: Mowgli & Baloo, The (1997)","Genres":["Action","Animation"]}
+{"ID":1383,"Title":"Squeeze (1996)","Genres":["Documentary"]}
+{"ID":1384,"Title":"Roseanna's Grave (For Roseanna) (1997)","Genres":["Children's","Mystery"]}
+{"ID":1385,"Title":"Tetsuo II: Body Hammer (1992)","Genres":["Romance"]}
+{"ID":1386,"Title":"Fall (1997)","Genres":["Mystery"]}
+{"ID":1387,"Title":"Gabbeh (1996)","Genres":["Documentary"]}
+{"ID":1388,"Title":"Mondo (1996)","Genres":["Documentary"]}
+{"ID":1389,"Title":"Innocent Sleep, The (1995)","Genres":["Comedy"]}
+{"ID":1390,"Title":"For Ever Mozart (1996)","Genres":["Documentary"]}
+{"ID":1391,"Title":"Locusts, The (1997)","Genres":["Documentary"]}
+{"ID":1392,"Title":"Stag (1997)","Genres":["Sci-Fi"]}
+{"ID":1393,"Title":"Swept from the Sea (1997)","Genres":["Mystery"]}
+{"ID":1394,"Title":"Hurricane Streets (1998)","Genres":["Documentary"]}
+{"ID":1395,"Title":"Stonewall (1995)","Genres":["Documentary"]}
+{"ID":1396,"Title":"Of Human Bondage (1934)","Genres":["Documentary"]}
+{"ID":1397,"Title":"Anna (1996)","Genres":["Documentary"]}
+{"ID":1398,"Title":"Stranger in the House (1997)","Genres":["Sci-Fi"]}
+{"ID":1399,"Title":"Picture Bride (1995)","Genres":["Documentary","Mystery"]}
+{"ID":1400,"Title":"M. Butterfly (1993)","Genres":["Documentary"]}
+{"ID":1401,"Title":"Ciao, Professore! (1993)","Genres":["Documentary"]}
+{"ID":1402,"Title":"Caro Diario (Dear Diary) (1994)","Genres":["Children's","Documentary"]}
+{"ID":1403,"Title":"Withnail and I (1987)","Genres":["Children's"]}
+{"ID":1404,"Title":"Boy's Life 2 (1997)","Genres":["Documentary"]}
+{"ID":1405,"Title":"When Night Is Falling (1995)","Genres":["Documentary","Mystery"]}
+{"ID":1406,"Title":"Specialist, The (1994)","Genres":[]}
+{"ID":1407,"Title":"Gordy (1995)","Genres":["Children's"]}
+{"ID":1408,"Title":"Swan Princess, The (1994)","Genres":["Adventure","Animation"]}
+{"ID":1409,"Title":"Harlem (1993)","Genres":["Documentary"]}
+{"ID":1410,"Title":"Barbarella (1968)","Genres":["Action","Romance"]}
+{"ID":1411,"Title":"Land Before Time III: The Time of the Great Giving (1995) (V)","Genres":["Adventure","Animation"]}
+{"ID":1412,"Title":"Street Fighter (1994)","Genres":[]}
+{"ID":1413,"Title":"Coldblooded (1995)","Genres":[]}
+{"ID":1414,"Title":"Next Karate Kid, The (1994)","Genres":["Animation"]}
+{"ID":1415,"Title":"No Escape (1994)","Genres":["Romance"]}
+{"ID":1416,"Title":"Turning, The (1992)","Genres":["Documentary"]}
+{"ID":1417,"Title":"Joy Luck Club, The (1993)","Genres":["Documentary"]}
+{"ID":1418,"Title":"Highlander III: The Sorcerer (1994)","Genres":["Romance"]}
+{"ID":1419,"Title":"Gilligan's Island: The Movie (1998)","Genres":["Children's"]}
+{"ID":1420,"Title":"My Crazy Life (Mi vida loca) (1993)","Genres":["Documentary"]}
+{"ID":1421,"Title":"Suture (1993)","Genres":["Fantasy","Sci-Fi"]}
+{"ID":1422,"Title":"Walking Dead, The (1995)","Genres":["Documentary","Thriller"]}
+{"ID":1423,"Title":"I Like It Like That (1994)","Genres":["Children's","Documentary","Mystery"]}
+{"ID":1424,"Title":"I'll Do Anything (1994)","Genres":["Children's","Documentary"]}
+{"ID":1425,"Title":"Grace of My Heart (1996)","Genres":["Children's","Documentary"]}
+{"ID":1426,"Title":"Drunks (1995)","Genres":["Documentary"]}
+{"ID":1427,"Title":"SubUrbia (1997)","Genres":["Children's"]}
+{"ID":1428,"Title":"Sliding Doors (1998)","Genres":["Documentary","Mystery"]}
+{"ID":1429,"Title":"Ill Gotten Gains (1997)","Genres":["Documentary"]}
+{"ID":1430,"Title":"Legal Deceit (1997)","Genres":["Sci-Fi"]}
+{"ID":1431,"Title":"Mighty, The (1998)","Genres":["Documentary"]}
+{"ID":1432,"Title":"Men of Means (1998)","Genres":["Documentary"]}
+{"ID":1433,"Title":"Shooting Fish (1997)","Genres":["Mystery"]}
+{"ID":1434,"Title":"Steal Big, Steal Little (1995)","Genres":["Children's"]}
+{"ID":1435,"Title":"Mr. Jones (1993)","Genres":["Documentary","Mystery"]}
+{"ID":1436,"Title":"House Party 3 (1994)","Genres":["Children's"]}
+{"ID":1437,"Title":"Panther (1995)","Genres":["Documentary"]}
+{"ID":1438,"Title":"Jason's Lyric (1994)","Genres":["Comedy","Documentary"]}
+{"ID":1439,"Title":"Above the Rim (1994)","Genres":["Documentary"]}
+{"ID":1440,"Title":"Moonlight and Valentino (1995)","Genres":["Documentary","Mystery"]}
+{"ID":1441,"Title":"Scarlet Letter, The (1995)","Genres":["Documentary"]}
+{"ID":1442,"Title":"8 Seconds (1994)","Genres":["Documentary"]}
+{"ID":1443,"Title":"That Darn Cat! (1965)","Genres":["Animation","Children's","Musical"]}
+{"ID":1444,"Title":"Ladybird Ladybird (1994)","Genres":["Documentary"]}
+{"ID":1445,"Title":"Bye Bye, Love (1995)","Genres":["Children's"]}
+{"ID":1446,"Title":"Century (1993)","Genres":["Documentary"]}
+{"ID":1447,"Title":"My Favorite Season (1993)","Genres":["Documentary"]}
+{"ID":1448,"Title":"Pather Panchali (1955)","Genres":["Documentary"]}
+{"ID":1449,"Title":"Golden Earrings (1947)","Genres":["Action","Mystery"]}
+{"ID":1450,"Title":"Foreign Correspondent (1940)","Genres":["Sci-Fi"]}
+{"ID":1451,"Title":"Lady of Burlesque (1943)","Genres":["Children's","Musical"]}
+{"ID":1452,"Title":"Angel on My Shoulder (1946)","Genres":["Comedy","Documentary"]}
+{"ID":1453,"Title":"Angel and the Badman (1947)","Genres":["War"]}
+{"ID":1454,"Title":"Outlaw, The (1943)","Genres":["War"]}
+{"ID":1455,"Title":"Beat the Devil (1954)","Genres":["Children's","Documentary"]}
+{"ID":1456,"Title":"Love Is All There Is (1996)","Genres":["Children's","Documentary"]}
+{"ID":1457,"Title":"Damsel in Distress, A (1937)","Genres":["Children's","Horror","Mystery"]}
+{"ID":1458,"Title":"Madame Butterfly (1995)","Genres":["Horror"]}
+{"ID":1459,"Title":"Sleepover (1995)","Genres":["Children's","Documentary"]}
+{"ID":1460,"Title":"Here Comes Cookie (1935)","Genres":["Children's"]}
+{"ID":1461,"Title":"Thieves (Voleurs, Les) (1996)","Genres":["Comedy","Documentary","Mystery"]}
+{"ID":1462,"Title":"Boys, Les (1997)","Genres":["Children's"]}
+{"ID":1463,"Title":"Stars Fell on Henrietta, The (1995)","Genres":["Documentary"]}
+{"ID":1464,"Title":"Last Summer in the Hamptons (1995)","Genres":["Children's","Documentary"]}
+{"ID":1465,"Title":"Margaret's Museum (1995)","Genres":["Documentary"]}
+{"ID":1466,"Title":"Saint of Fort Washington, The (1993)","Genres":["Documentary"]}
+{"ID":1467,"Title":"Cure, The (1995)","Genres":["Documentary"]}
+{"ID":1468,"Title":"Tom and Huck (1995)","Genres":["Action","Animation"]}
+{"ID":1469,"Title":"Gumby: The Movie (1995)","Genres":["Adventure","Animation"]}
+{"ID":1470,"Title":"Hideaway (1995)","Genres":["Sci-Fi"]}
+{"ID":1471,"Title":"Visitors, The (Visiteurs, Les) (1993)","Genres":["Children's","Romance"]}
+{"ID":1472,"Title":"Little Princess, The (1939)","Genres":["Animation","Documentary"]}
+{"ID":1473,"Title":"Nina Takes a Lover (1994)","Genres":["Children's","Mystery"]}
+{"ID":1474,"Title":"Bhaji on the Beach (1993)","Genres":["Children's","Documentary"]}
+{"ID":1475,"Title":"Raw Deal (1948)","Genres":["Fantasy"]}
+{"ID":1476,"Title":"Nightwatch (1997)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":1477,"Title":"Dead Presidents (1995)","Genres":["Comedy","Documentary"]}
+{"ID":1478,"Title":"Reckless (1995)","Genres":["Children's"]}
+{"ID":1479,"Title":"Herbie Rides Again (1974)","Genres":["Action","Animation","Children's"]}
+{"ID":1480,"Title":"S.F.W. (1994)","Genres":["Documentary"]}
+{"ID":1481,"Title":"Gate of Heavenly Peace, The (1995)","Genres":["Crime"]}
+{"ID":1482,"Title":"Man in the Iron Mask, The (1998)","Genres":["Documentary","Mystery"]}
+{"ID":1483,"Title":"Jerky Boys, The (1994)","Genres":["Children's"]}
+{"ID":1484,"Title":"Colonel Chabert, Le (1994)","Genres":["Documentary","Mystery","Thriller"]}
+{"ID":1485,"Title":"Girl in the Cadillac (1995)","Genres":["Documentary"]}
+{"ID":1486,"Title":"Even Cowgirls Get the Blues (1993)","Genres":["Children's","Mystery"]}
+{"ID":1487,"Title":"Germinal (1993)","Genres":["Documentary"]}
+{"ID":1488,"Title":"Chasers (1994)","Genres":["Children's"]}
+{"ID":1489,"Title":"Fausto (1993)","Genres":["Children's"]}
+{"ID":1490,"Title":"Tough and Deadly (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1491,"Title":"Window to Paris (1994)","Genres":["Children's"]}
+{"ID":1492,"Title":"Modern Affair, A (1995)","Genres":["Mystery"]}
+{"ID":1493,"Title":"Mostro, Il (1994)","Genres":["Children's"]}
+{"ID":1494,"Title":"Flirt (1995)","Genres":["Documentary"]}
+{"ID":1495,"Title":"Carpool (1996)","Genres":["Children's","Comedy"]}
+{"ID":1496,"Title":"Line King: Al Hirschfeld, The (1996)","Genres":["Crime"]}
+{"ID":1497,"Title":"Farmer & Chase (1995)","Genres":["Children's"]}
+{"ID":1498,"Title":"Grosse Fatigue (1994)","Genres":["Children's"]}
+{"ID":1499,"Title":"Santa with Muscles (1996)","Genres":["Children's"]}
+{"ID":1500,"Title":"Prisoner of the Mountains (Kavkazsky Plennik) (1996)","Genres":["Thriller"]}
+{"ID":1501,"Title":"Naked in New York (1994)","Genres":["Children's","Mystery"]}
+{"ID":1502,"Title":"Gold Diggers: The Secret of Bear Mountain (1995)","Genres":["Action","Animation"]}
+{"ID":1503,"Title":"Bewegte Mann, Der (1994)","Genres":["Children's"]}
+{"ID":1504,"Title":"Killer: A Journal of Murder (1995)","Genres":["Comedy","Documentary"]}
+{"ID":1505,"Title":"Nelly & Monsieur Arnaud (1995)","Genres":["Documentary"]}
+{"ID":1506,"Title":"Three Lives and Only One Death (1996)","Genres":["Children's"]}
+{"ID":1507,"Title":"Babysitter, The (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1508,"Title":"Getting Even with Dad (1994)","Genres":["Children's"]}
+{"ID":1509,"Title":"Mad Dog Time (1996)","Genres":["Comedy"]}
+{"ID":1510,"Title":"Children of the Revolution (1996)","Genres":["Children's"]}
+{"ID":1511,"Title":"World of Apu, The (Apur Sansar) (1959)","Genres":["Documentary"]}
+{"ID":1512,"Title":"Sprung (1997)","Genres":["Children's"]}
+{"ID":1513,"Title":"Dream With the Fishes (1997)","Genres":["Documentary"]}
+{"ID":1514,"Title":"Wings of Courage (1995)","Genres":["Action","Mystery"]}
+{"ID":1515,"Title":"Wedding Gift, The (1994)","Genres":["Documentary"]}
+{"ID":1516,"Title":"Race the Sun (1996)","Genres":["Documentary"]}
+{"ID":1517,"Title":"Losing Isaiah (1995)","Genres":["Documentary"]}
+{"ID":1518,"Title":"New Jersey Drive (1995)","Genres":["Comedy","Documentary"]}
+{"ID":1519,"Title":"Fear, The (1995)","Genres":["Film-Noir"]}
+{"ID":1520,"Title":"Mr. Wonderful (1993)","Genres":["Children's","Mystery"]}
+{"ID":1521,"Title":"Trial by Jury (1994)","Genres":["Sci-Fi"]}
+{"ID":1522,"Title":"Good Man in Africa, A (1994)","Genres":["Action"]}
+{"ID":1523,"Title":"Kaspar Hauser (1993)","Genres":["Documentary"]}
+{"ID":1524,"Title":"Object of My Affection, The (1998)","Genres":["Children's","Mystery"]}
+{"ID":1525,"Title":"Witness (1985)","Genres":["Documentary","Mystery","Sci-Fi"]}
+{"ID":1526,"Title":"Senseless (1998)","Genres":["Children's"]}
+{"ID":1527,"Title":"Nowhere (1997)","Genres":["Documentary"]}
+{"ID":1528,"Title":"Underground (1995)","Genres":["Thriller"]}
+{"ID":1529,"Title":"Jefferson in Paris (1995)","Genres":["Documentary"]}
+{"ID":1530,"Title":"Far From Home: The Adventures of Yellow Dog (1995)","Genres":["Action","Animation"]}
+{"ID":1531,"Title":"Foreign Student (1994)","Genres":["Documentary"]}
+{"ID":1532,"Title":"I Don't Want to Talk About It (De eso no se habla) (1993)","Genres":["Documentary"]}
+{"ID":1533,"Title":"Twin Town (1997)","Genres":["Children's","Comedy"]}
+{"ID":1534,"Title":"Enfer, L' (1994)","Genres":["Documentary"]}
+{"ID":1535,"Title":"Aiqing wansui (1994)","Genres":["Documentary"]}
+{"ID":1536,"Title":"Cosi (1996)","Genres":["Children's"]}
+{"ID":1537,"Title":"All Over Me (1997)","Genres":["Documentary"]}
+{"ID":1538,"Title":"Being Human (1993)","Genres":["Documentary"]}
+{"ID":1539,"Title":"Amazing Panda Adventure, The (1995)","Genres":["Action","Animation"]}
+{"ID":1540,"Title":"Beans of Egypt, Maine, The (1994)","Genres":["Documentary"]}
+{"ID":1541,"Title":"Scarlet Letter, The (1926)","Genres":["Documentary"]}
+{"ID":1542,"Title":"Johns (1996)","Genres":["Documentary"]}
+{"ID":1543,"Title":"It Takes Two (1995)","Genres":["Children's"]}
+{"ID":1544,"Title":"Frankie Starlight (1995)","Genres":["Documentary","Mystery"]}
+{"ID":1545,"Title":"Shadows (Cienie) (1988)","Genres":["Documentary"]}
+{"ID":1546,"Title":"Show, The (1995)","Genres":["Crime"]}
+{"ID":1547,"Title":"The Courtyard (1995)","Genres":["Sci-Fi"]}
+{"ID":1548,"Title":"Dream Man (1995)","Genres":["Sci-Fi"]}
+{"ID":1549,"Title":"Destiny Turns on the Radio (1995)","Genres":["Children's"]}
+{"ID":1550,"Title":"Glass Shield, The (1994)","Genres":["Documentary"]}
+{"ID":1551,"Title":"Hunted, The (1995)","Genres":[]}
+{"ID":1552,"Title":"Underneath, The (1995)","Genres":["Musical","Sci-Fi"]}
+{"ID":1553,"Title":"Safe Passage (1994)","Genres":["Documentary"]}
+{"ID":1554,"Title":"Secret Adventures of Tom Thumb, The (1993)","Genres":["Action","Animation"]}
+{"ID":1555,"Title":"Condition Red (1995)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1556,"Title":"Yankee Zulu (1994)","Genres":["Children's","Documentary"]}
+{"ID":1557,"Title":"Aparajito (1956)","Genres":["Documentary"]}
+{"ID":1558,"Title":"Hostile Intentions (1994)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1559,"Title":"Clean Slate (Coup de Torchon) (1981)","Genres":["Comedy"]}
+{"ID":1560,"Title":"Tigrero: A Film That Was Never Made (1994)","Genres":["Crime","Documentary"]}
+{"ID":1561,"Title":"Eye of Vichy, The (Oeil de Vichy, L') (1993)","Genres":["Crime"]}
+{"ID":1562,"Title":"Promise, The (Versprechen, Das) (1994)","Genres":["Mystery"]}
+{"ID":1563,"Title":"To Cross the Rubicon (1991)","Genres":["Documentary"]}
+{"ID":1564,"Title":"Daens (1992)","Genres":["Documentary"]}
+{"ID":1565,"Title":"Man from Down Under, The (1943)","Genres":["Documentary"]}
+{"ID":1566,"Title":"Careful (1992)","Genres":["Children's"]}
+{"ID":1567,"Title":"Vermont Is For Lovers (1992)","Genres":["Children's","Mystery"]}
+{"ID":1568,"Title":"Vie est belle, La (Life is Rosey) (1987)","Genres":["Children's","Documentary"]}
+{"ID":1569,"Title":"Quartier Mozart (1992)","Genres":["Children's"]}
+{"ID":1570,"Title":"Touki Bouki (Journey of the Hyena) (1973)","Genres":["Documentary"]}
+{"ID":1571,"Title":"Wend Kuuni (God's Gift) (1982)","Genres":["Documentary"]}
+{"ID":1572,"Title":"Spirits of the Dead (Tre passi nel delirio) (1968)","Genres":["Film-Noir"]}
+{"ID":1573,"Title":"Pharaoh's Army (1995)","Genres":["Thriller"]}
+{"ID":1574,"Title":"I, Worst of All (Yo, la peor de todas) (1990)","Genres":["Documentary"]}
+{"ID":1575,"Title":"Hungarian Fairy Tale, A (1987)","Genres":["Drama"]}
+{"ID":1576,"Title":"Death in the Garden (Mort en ce jardin, La) (1956)","Genres":["Documentary"]}
+{"ID":1577,"Title":"Collectionneuse, La (1967)","Genres":["Documentary"]}
+{"ID":1578,"Title":"Baton Rouge (1988)","Genres":["Sci-Fi"]}
+{"ID":1579,"Title":"Liebelei (1933)","Genres":["Mystery"]}
+{"ID":1580,"Title":"Woman in Question, The (1950)","Genres":["Musical"]}
+{"ID":1581,"Title":"T-Men (1947)","Genres":["Fantasy"]}
+{"ID":1582,"Title":"Invitation, The (Zaproszenie) (1986)","Genres":["Documentary"]}
+{"ID":1583,"Title":"Symphonie pastorale, La (1946)","Genres":["Documentary"]}
+{"ID":1584,"Title":"American Dream (1990)","Genres":["Crime"]}
+{"ID":1585,"Title":"Lashou shentan (1992)","Genres":["Comedy","Documentary"]}
+{"ID":1586,"Title":"Terror in a Texas Town (1958)","Genres":["War"]}
+{"ID":1587,"Title":"Salut cousin! (1996)","Genres":["Children's","Documentary"]}
+{"ID":1588,"Title":"Schizopolis (1996)","Genres":["Children's"]}
+{"ID":1589,"Title":"To Have, or Not (1995)","Genres":["Documentary"]}
+{"ID":1590,"Title":"Duoluo tianshi (1995)","Genres":["Documentary"]}
+{"ID":1591,"Title":"Magic Hour, The (1998)","Genres":["Documentary"]}
+{"ID":1592,"Title":"Death in Brunswick (1991)","Genres":["Children's"]}
+{"ID":1593,"Title":"Everest (1998)","Genres":["Crime"]}
+{"ID":1594,"Title":"Shopping (1994)","Genres":["Sci-Fi"]}
+{"ID":1595,"Title":"Nemesis 2: Nebula (1995)","Genres":["Romance","Sci-Fi"]}
+{"ID":1596,"Title":"Romper Stomper (1992)","Genres":["Documentary"]}
+{"ID":1597,"Title":"City of Industry (1997)","Genres":["Comedy","Sci-Fi"]}
+{"ID":1598,"Title":"Someone Else's America (1995)","Genres":["Documentary"]}
+{"ID":1599,"Title":"Guantanamera (1994)","Genres":["Children's"]}
+{"ID":1600,"Title":"Office Killer (1997)","Genres":["Sci-Fi"]}
+{"ID":1601,"Title":"Price Above Rubies, A (1998)","Genres":["Documentary"]}
+{"ID":1602,"Title":"Angela (1995)","Genres":["Documentary"]}
+{"ID":1603,"Title":"He Walked by Night (1948)","Genres":["Comedy","Fantasy","Sci-Fi"]}
+{"ID":1604,"Title":"Love Serenade (1996)","Genres":["Children's"]}
+{"ID":1605,"Title":"Deceiver (1997)","Genres":["Comedy"]}
+{"ID":1606,"Title":"Hurricane Streets (1998)","Genres":["Documentary"]}
+{"ID":1607,"Title":"Buddy (1997)","Genres":["Action","Animation","Documentary"]}
+{"ID":1608,"Title":"B*A*P*S (1997)","Genres":["Children's"]}
+{"ID":1609,"Title":"Truth or Consequences, N.M. (1997)","Genres":["Comedy","Mystery"]}
+{"ID":1610,"Title":"Intimate Relations (1996)","Genres":["Children's"]}
+{"ID":1611,"Title":"Leading Man, The (1996)","Genres":["Mystery"]}
+{"ID":1612,"Title":"Tokyo Fist (1995)","Genres":["Documentary"]}
+{"ID":1613,"Title":"Reluctant Debutante, The (1958)","Genres":["Children's","Documentary"]}
+{"ID":1614,"Title":"Warriors of Virtue (1997)","Genres":["Action","Animation","Drama"]}
+{"ID":1615,"Title":"Desert Winds (1995)","Genres":["Documentary"]}
+{"ID":1616,"Title":"Hugo Pool (1997)","Genres":["Mystery"]}
+{"ID":1617,"Title":"King of New York (1990)","Genres":["Comedy"]}
+{"ID":1618,"Title":"All Things Fair (1996)","Genres":["Documentary"]}
+{"ID":1619,"Title":"Sixth Man, The (1997)","Genres":["Children's"]}
+{"ID":1620,"Title":"Butterfly Kiss (1995)","Genres":["Sci-Fi"]}
+{"ID":1621,"Title":"Paris, France (1993)","Genres":["Children's"]}
+{"ID":1622,"Title":"C�r�monie, La (1995)","Genres":["Documentary"]}
+{"ID":1623,"Title":"Hush (1998)","Genres":["Sci-Fi"]}
+{"ID":1624,"Title":"Nightwatch (1997)","Genres":["Film-Noir","Sci-Fi"]}
+{"ID":1625,"Title":"Nobody Loves Me (Keiner liebt mich) (1994)","Genres":["Children's","Documentary"]}
+{"ID":1626,"Title":"Wife, The (1995)","Genres":["Children's","Documentary"]}
+{"ID":1627,"Title":"Lamerica (1994)","Genres":["Documentary"]}
+{"ID":1628,"Title":"Nico Icon (1995)","Genres":["Crime"]}
+{"ID":1629,"Title":"Silence of the Palace, The (Saimt el Qusur) (1994)","Genres":["Documentary"]}
+{"ID":1630,"Title":"Slingshot, The (1993)","Genres":["Children's","Documentary"]}
+{"ID":1631,"Title":"Land and Freedom (Tierra y libertad) (1995)","Genres":["Thriller"]}
+{"ID":1632,"Title":"� k�ldum klaka (Cold Fever) (1994)","Genres":["Children's","Documentary"]}
+{"ID":1633,"Title":"Etz Hadomim Tafus (Under the Domin Tree) (1994)","Genres":["Documentary"]}
+{"ID":1634,"Title":"Two Friends (1986) ","Genres":["Documentary"]}
+{"ID":1635,"Title":"Brothers in Trouble (1995)","Genres":["Documentary"]}
+{"ID":1636,"Title":"Girls Town (1996)","Genres":["Documentary"]}
+{"ID":1637,"Title":"Normal Life (1996)","Genres":["Comedy","Documentary"]}
+{"ID":1638,"Title":"Bitter Sugar (Azucar Amargo) (1996)","Genres":["Documentary"]}
+{"ID":1639,"Title":"Eighth Day, The (1996)","Genres":["Documentary"]}
+{"ID":1640,"Title":"Dadetown (1995)","Genres":["Crime"]}
+{"ID":1641,"Title":"Some Mother's Son (1996)","Genres":["Documentary"]}
+{"ID":1642,"Title":"Angel Baby (1995)","Genres":["Documentary"]}
+{"ID":1643,"Title":"Sudden Manhattan (1996)","Genres":["Children's"]}
+{"ID":1644,"Title":"Butcher Boy, The (1998)","Genres":["Documentary"]}
+{"ID":1645,"Title":"Men With Guns (1997)","Genres":["Documentary"]}
+{"ID":1646,"Title":"Hana-bi (1997)","Genres":["Children's","Comedy","Documentary"]}
+{"ID":1647,"Title":"Niagara, Niagara (1997)","Genres":["Documentary"]}
+{"ID":1648,"Title":"Big One, The (1997)","Genres":["Children's","Crime"]}
+{"ID":1649,"Title":"Butcher Boy, The (1998)","Genres":["Documentary"]}
+{"ID":1650,"Title":"Spanish Prisoner, The (1997)","Genres":["Documentary","Sci-Fi"]}
+{"ID":1651,"Title":"Temptress Moon (Feng Yue) (1996)","Genres":["Mystery"]}
+{"ID":1652,"Title":"Entertaining Angels: The Dorothy Day Story (1996)","Genres":["Documentary"]}
+{"ID":1653,"Title":"Chairman of the Board (1998)","Genres":["Children's"]}
+{"ID":1654,"Title":"Favor, The (1994)","Genres":["Children's","Mystery"]}
+{"ID":1655,"Title":"Little City (1998)","Genres":["Children's","Mystery"]}
+{"ID":1656,"Title":"Target (1995)","Genres":["Documentary"]}
+{"ID":1657,"Title":"Substance of Fire, The (1996)","Genres":["Documentary"]}
+{"ID":1658,"Title":"Getting Away With Murder (1996)","Genres":["Children's"]}
+{"ID":1659,"Title":"Small Faces (1995)","Genres":["Documentary"]}
+{"ID":1660,"Title":"New Age, The (1994)","Genres":["Documentary"]}
+{"ID":1661,"Title":"Rough Magic (1995)","Genres":["Documentary","Mystery"]}
+{"ID":1662,"Title":"Nothing Personal (1995)","Genres":["Documentary","Thriller"]}
+{"ID":1663,"Title":"8 Heads in a Duffel Bag (1997)","Genres":["Children's"]}
+{"ID":1664,"Title":"Brother's Kiss, A (1997)","Genres":["Documentary"]}
+{"ID":1665,"Title":"Ripe (1996)","Genres":["Documentary"]}
+{"ID":1666,"Title":"Next Step, The (1995)","Genres":["Documentary"]}
+{"ID":1667,"Title":"Wedding Bell Blues (1996)","Genres":["Children's"]}
+{"ID":1668,"Title":"MURDER and murder (1996)","Genres":["Comedy","Documentary","Musical"]}
+{"ID":1669,"Title":"Tainted (1998)","Genres":["Children's","Sci-Fi"]}
+{"ID":1670,"Title":"Further Gesture, A (1996)","Genres":["Documentary"]}
+{"ID":1671,"Title":"Kika (1993)","Genres":["Documentary"]}
+{"ID":1672,"Title":"Mirage (1995)","Genres":["Sci-Fi"]}
+{"ID":1673,"Title":"Mamma Roma (1962)","Genres":["Documentary"]}
+{"ID":1674,"Title":"Sunchaser, The (1996)","Genres":["Documentary"]}
+{"ID":1675,"Title":"War at Home, The (1996)","Genres":["Documentary"]}
+{"ID":1676,"Title":"Sweet Nothing (1995)","Genres":["Documentary"]}
+{"ID":1677,"Title":"Mat' i syn (1997)","Genres":["Documentary"]}
+{"ID":1678,"Title":"B. Monkey (1998)","Genres":["Mystery","Sci-Fi"]}
+{"ID":1679,"Title":"Sliding Doors (1998)","Genres":["Documentary","Mystery"]}
+{"ID":1680,"Title":"You So Crazy (1994)","Genres":["Children's"]}
+{"ID":1681,"Title":"Scream of Stone (Schrei aus Stein) (1991)","Genres":["Documentary"]}

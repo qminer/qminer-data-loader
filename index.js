@@ -27,3 +27,13 @@ exports.loadIrisDataset = function (store, fileName) {
 exports.getSentimentDatasetFile = function (fileName) {
     return __dirname + '/' + fileName;
 }
+
+exports.loadRatingsMatrix = function (spMat, fileName) {
+    fileName = fileName == undefined ? __dirname + '/ratingsMatrix.bin' : fileName;
+    spMat.load(fileName);
+}
+
+exports.loadRatingsMoviesDataset = function (store, fileName) {
+    fileName = fileName == undefined ? __dirname + '/ratingsMovies.ldjson' : fileName;
+    store.loadJson(fileName);
+}
