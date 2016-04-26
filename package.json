@@ -13,8 +13,8 @@
     "visits_small.ldjson",
     "movies.ldjson",
     "forex.ldjson",
-	"ratingsMatrix.bin",
-	"ratingsMovies.ldjson"
+    "ratingsMatrix.bin",
+    "ratingsMovies.ldjson"
   ],
   "keywords": [
     "qminer"
