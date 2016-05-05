@@ -1,3 +1,5 @@
+var qm = require('qminer');
+
 exports.loadSentimentDataset = function (store, fileName) {
     fileName = fileName == undefined ? __dirname + '/sentiment.ldjson' : fileName;
     store.loadJson(fileName);
@@ -30,7 +32,8 @@ exports.getSentimentDatasetFile = function (fileName) {
 
 exports.loadRatingsMatrix = function (spMat, fileName) {
     fileName = fileName == undefined ? __dirname + '/ratingsMatrix.bin' : fileName;
-    spMat.load(fileName);
+    var fin = qm.fs.openRead(fileName);
+    spMat.load(fin);
 }
 
 exports.loadRatingsMoviesDataset = function (store, fileName) {
