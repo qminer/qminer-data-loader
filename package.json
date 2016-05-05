@@ -48,5 +48,8 @@
     "tarball": "http://registry.npmjs.org/qminer-data-loader/-/qminer-data-loader-1.3.0.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/qminer-data-loader/-/qminer-data-loader-1.3.0.tgz"
+  "_resolved": "https://registry.npmjs.org/qminer-data-loader/-/qminer-data-loader-1.3.0.tgz",
+  "dependencies": {
+      "qminer": "^5.1.0"
+  }
 }
