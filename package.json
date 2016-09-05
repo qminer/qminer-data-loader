@@ -1,6 +1,6 @@
 {
   "name": "qminer-data-loader",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Example datasets importer for qminer",
   "repository": {
     "type": "git",
