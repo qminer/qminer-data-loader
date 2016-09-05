@@ -15,7 +15,6 @@ exports.loadMoviesDataset = function (store, fileName) {
     store.loadJson(fileName);
 }
 
-
 exports.loadForexDataset = function (store, fileName) {
     fileName = fileName == undefined ? __dirname + '/forex.ldjson' : fileName;
     store.loadJson(fileName);
@@ -39,4 +38,11 @@ exports.loadRatingsMatrix = function (spMat, fileName) {
 exports.loadRatingsMoviesDataset = function (store, fileName) {
     fileName = fileName == undefined ? __dirname + '/ratingsMovies.ldjson' : fileName;
     store.loadJson(fileName);
+}
+
+exports.loadTweetsCount = function (store, fileName) {
+    fileName = fileName == undefined ? __dirname + '/tweetCount.json' : fileName;
+    JSON.parse(require("fs").readFileSync(fileName, "utf8")).forEach(
+        function (data) { store.push(data); }
+    );
 }
