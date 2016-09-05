@@ -14,7 +14,8 @@
     "movies.ldjson",
     "forex.ldjson",
     "ratingsMatrix.bin",
-    "ratingsMovies.ldjson"
+    "ratingsMovies.ldjson",
+    "tweetCount.json"
   ],
   "keywords": [
     "qminer"
