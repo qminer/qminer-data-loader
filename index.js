@@ -20,6 +20,16 @@ exports.loadForexDataset = function (store, fileName) {
     store.loadJson(fileName);
 }
 
+exports.loadBrownianDataset = function (store, fileName) {
+    fileName = fileName == undefined ? __dirname + '/brownian_1.ldjson' : fileName;
+    store.loadJson(fileName);
+};
+
+exports.loadBrownian2Dataset = function (store, fileName) {
+    fileName = fileName == undefined ? __dirname + '/brownian_2.ldjson' : fileName;
+    store.loadJson(fileName);
+};
+
 exports.loadIrisDataset = function (store, fileName) {
     fileName = fileName == undefined ? __dirname + '/iris.ldjson' : fileName;
     store.loadJson(fileName);
